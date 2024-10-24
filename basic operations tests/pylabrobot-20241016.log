@@ -1,0 +1,1166 @@
+2024-10-16 13:16:38,892 - pylabrobot - INFO - Finding USB device...
+2024-10-16 13:16:38,962 - pylabrobot - INFO - Found USB device.
+2024-10-16 13:16:38,963 - pylabrobot - INFO - Found endpoints. 
+Write:
+       ENDPOINT 0x2: Bulk OUT ===============================
+       bLength          :    0x7 (7 bytes)
+       bDescriptorType  :    0x5 Endpoint
+       bEndpointAddress :    0x2 OUT
+       bmAttributes     :    0x2 Bulk
+       wMaxPacketSize   :   0x40 (64 bytes)
+       bInterval        :    0x0 
+Read:
+       ENDPOINT 0x81: Bulk IN ===============================
+       bLength          :    0x7 (7 bytes)
+       bDescriptorType  :    0x5 Endpoint
+       bEndpointAddress :   0x81 IN
+       bmAttributes     :    0x2 Bulk
+       wMaxPacketSize   :   0x40 (64 bytes)
+       bInterval        :    0x0
+2024-10-16 13:16:42,322 - pylabrobot - INFO - Sent command: A1PMQAid0001
+2024-10-16 13:16:42,322 - pylabrobot - DEBUG - Starting reading thread...
+2024-10-16 13:16:42,343 - pylabrobot - DEBUG - Received data: bytearray(b'A1PMQAid1er0rt0 0 0 0 0 0 0 0')
+2024-10-16 13:16:42,344 - pylabrobot - INFO - Received response: A1PMQAid1er0rt0 0 0 0 0 0 0 0
+2024-10-16 13:16:42,344 - pylabrobot - DEBUG - Reading thread stopped.
+2024-10-16 13:16:42,345 - pylabrobot - INFO - Sent command: A1AMQWid0002
+2024-10-16 13:16:42,345 - pylabrobot - DEBUG - Starting reading thread...
+2024-10-16 13:16:42,373 - pylabrobot - DEBUG - Received data: bytearray(b'A1AMQWid2er0qw1')
+2024-10-16 13:16:42,373 - pylabrobot - INFO - Received response: A1AMQWid2er0qw1
+2024-10-16 13:16:42,373 - pylabrobot - DEBUG - Reading thread stopped.
+2024-10-16 13:16:42,374 - pylabrobot - INFO - Sent command: A1PMQWid0003
+2024-10-16 13:16:42,374 - pylabrobot - DEBUG - Starting reading thread...
+2024-10-16 13:16:42,403 - pylabrobot - DEBUG - Received data: bytearray(b'A1PMQWid3er0qw1')
+2024-10-16 13:16:42,403 - pylabrobot - INFO - Received response: A1PMQWid3er0qw1
+2024-10-16 13:16:42,404 - pylabrobot - DEBUG - Reading thread stopped.
+2024-10-16 13:16:42,404 - pylabrobot - INFO - Sent command: I1AMQWid0004
+2024-10-16 13:16:42,404 - pylabrobot - DEBUG - Starting reading thread...
+2024-10-16 13:16:42,420 - pylabrobot - DEBUG - Received data: bytearray(b'I1AMQWid4er0qw1')
+2024-10-16 13:16:42,420 - pylabrobot - INFO - Received response: I1AMQWid4er0qw1
+2024-10-16 13:16:42,420 - pylabrobot - DEBUG - Reading thread stopped.
+2024-10-16 13:16:42,421 - pylabrobot - INFO - Sent command: A1HMQWid0005
+2024-10-16 13:16:42,421 - pylabrobot - DEBUG - Starting reading thread...
+2024-10-16 13:16:42,448 - pylabrobot - DEBUG - Received data: bytearray(b'A1HMQWid5er0qw1')
+2024-10-16 13:16:42,448 - pylabrobot - INFO - Received response: A1HMQWid5er0qw1
+2024-10-16 13:16:42,448 - pylabrobot - DEBUG - Reading thread stopped.
+2024-10-16 13:16:42,449 - pylabrobot - INFO - Sent command: A1RMQWid0006
+2024-10-16 13:16:42,449 - pylabrobot - DEBUG - Starting reading thread...
+2024-10-16 13:16:42,478 - pylabrobot - DEBUG - Received data: bytearray(b'A1RMQWid6er0qw1')
+2024-10-16 13:16:42,478 - pylabrobot - INFO - Received response: A1RMQWid6er0qw1
+2024-10-16 13:16:42,478 - pylabrobot - DEBUG - Reading thread stopped.
+2024-10-16 13:16:58,409 - pylabrobot - INFO - Sent command: A1AMTTid0007ti01tf1tl0871tv10650tg3tu0
+2024-10-16 13:16:58,409 - pylabrobot - DEBUG - Starting reading thread...
+2024-10-16 13:16:58,413 - pylabrobot - DEBUG - Received data: bytearray(b'A1AMTTid7er0')
+2024-10-16 13:16:58,413 - pylabrobot - INFO - Received response: A1AMTTid7er0
+2024-10-16 13:16:58,413 - pylabrobot - DEBUG - Reading thread stopped.
+2024-10-16 13:16:58,414 - pylabrobot - INFO - Sent command: A1PMTPid0008xp6489 0&yp2748 0&tm1 0&tt1&tp2265&tz2165&th2450&te2450&ba0&td1&
+2024-10-16 13:16:58,414 - pylabrobot - DEBUG - Starting reading thread...
+2024-10-16 13:17:01,416 - pylabrobot - DEBUG - Received data: bytearray(b'')
+2024-10-16 13:17:01,416 - pylabrobot - INFO - Received response: 
+2024-10-16 13:17:04,419 - pylabrobot - DEBUG - Received data: bytearray(b'')
+2024-10-16 13:17:04,419 - pylabrobot - INFO - Received response: 
+2024-10-16 13:17:07,422 - pylabrobot - DEBUG - Received data: bytearray(b'')
+2024-10-16 13:17:07,422 - pylabrobot - INFO - Received response: 
+2024-10-16 13:17:07,524 - pylabrobot - DEBUG - Received data: bytearray(b'A1PMTPid8er0')
+2024-10-16 13:17:07,524 - pylabrobot - INFO - Received response: A1PMTPid8er0
+2024-10-16 13:17:07,524 - pylabrobot - DEBUG - Reading thread stopped.
+2024-10-16 13:17:08,878 - pylabrobot - INFO - Sent command: A1PMTRid0009xp7775 0&yp3156 0&tp1471&tz1371&th2450&te2450&tm1 0&ts0td0&
+2024-10-16 13:17:08,878 - pylabrobot - DEBUG - Starting reading thread...
+2024-10-16 13:17:12,209 - pylabrobot - DEBUG - Received data: bytearray(b'')
+2024-10-16 13:17:12,210 - pylabrobot - INFO - Received response: 
+2024-10-16 13:17:15,512 - pylabrobot - DEBUG - Received data: bytearray(b'')
+2024-10-16 13:17:15,512 - pylabrobot - INFO - Received response: 
+2024-10-16 13:17:16,452 - pylabrobot - DEBUG - Received data: bytearray(b'A1PMTRid9er0')
+2024-10-16 13:17:16,453 - pylabrobot - INFO - Received response: A1PMTRid9er0
+2024-10-16 13:17:16,453 - pylabrobot - DEBUG - Reading thread stopped.
+2024-10-16 13:18:24,046 - pylabrobot - INFO - Sent command: A1PMTPid0010xp6489 0&yp2748 0&tm1 0&tt1&tp2265&tz2165&th2450&te2450&ba0&td1&
+2024-10-16 13:18:24,046 - pylabrobot - DEBUG - Starting reading thread...
+2024-10-16 13:18:27,366 - pylabrobot - DEBUG - Received data: bytearray(b'')
+2024-10-16 13:18:27,366 - pylabrobot - INFO - Received response: 
+2024-10-16 13:18:30,368 - pylabrobot - DEBUG - Received data: bytearray(b'')
+2024-10-16 13:18:30,368 - pylabrobot - INFO - Received response: 
+2024-10-16 13:18:31,379 - pylabrobot - DEBUG - Received data: bytearray(b'A1PMTPid10er0')
+2024-10-16 13:18:31,380 - pylabrobot - INFO - Received response: A1PMTPid10er0
+2024-10-16 13:18:31,380 - pylabrobot - DEBUG - Reading thread stopped.
+2024-10-16 13:19:07,477 - pylabrobot - INFO - Finding USB device...
+2024-10-16 13:19:07,479 - pylabrobot - INFO - Found USB device.
+2024-10-16 13:19:07,479 - pylabrobot - INFO - Found endpoints. 
+Write:
+       ENDPOINT 0x2: Bulk OUT ===============================
+       bLength          :    0x7 (7 bytes)
+       bDescriptorType  :    0x5 Endpoint
+       bEndpointAddress :    0x2 OUT
+       bmAttributes     :    0x2 Bulk
+       wMaxPacketSize   :   0x40 (64 bytes)
+       bInterval        :    0x0 
+Read:
+       ENDPOINT 0x81: Bulk IN ===============================
+       bLength          :    0x7 (7 bytes)
+       bDescriptorType  :    0x5 Endpoint
+       bEndpointAddress :   0x81 IN
+       bmAttributes     :    0x2 Bulk
+       wMaxPacketSize   :   0x40 (64 bytes)
+       bInterval        :    0x0
+2024-10-16 13:19:18,223 - pylabrobot - INFO - Finding USB device...
+2024-10-16 13:19:18,261 - pylabrobot - INFO - Found USB device.
+2024-10-16 13:19:18,261 - pylabrobot - INFO - Found endpoints. 
+Write:
+       ENDPOINT 0x2: Bulk OUT ===============================
+       bLength          :    0x7 (7 bytes)
+       bDescriptorType  :    0x5 Endpoint
+       bEndpointAddress :    0x2 OUT
+       bmAttributes     :    0x2 Bulk
+       wMaxPacketSize   :   0x40 (64 bytes)
+       bInterval        :    0x0 
+Read:
+       ENDPOINT 0x81: Bulk IN ===============================
+       bLength          :    0x7 (7 bytes)
+       bDescriptorType  :    0x5 Endpoint
+       bEndpointAddress :   0x81 IN
+       bmAttributes     :    0x2 Bulk
+       wMaxPacketSize   :   0x40 (64 bytes)
+       bInterval        :    0x0
+2024-10-16 13:19:21,622 - pylabrobot - INFO - Sent command: A1PMQAid0001
+2024-10-16 13:19:21,622 - pylabrobot - DEBUG - Starting reading thread...
+2024-10-16 13:19:21,644 - pylabrobot - DEBUG - Received data: bytearray(b'A1PMQAid1er0rt1 0 0 0 0 0 0 0')
+2024-10-16 13:19:21,644 - pylabrobot - INFO - Received response: A1PMQAid1er0rt1 0 0 0 0 0 0 0
+2024-10-16 13:19:21,644 - pylabrobot - DEBUG - Reading thread stopped.
+2024-10-16 13:19:21,645 - pylabrobot - INFO - Sent command: A1AMQWid0002
+2024-10-16 13:19:21,645 - pylabrobot - DEBUG - Starting reading thread...
+2024-10-16 13:19:21,675 - pylabrobot - DEBUG - Received data: bytearray(b'A1AMQWid2er0qw1')
+2024-10-16 13:19:21,676 - pylabrobot - INFO - Received response: A1AMQWid2er0qw1
+2024-10-16 13:19:21,676 - pylabrobot - DEBUG - Reading thread stopped.
+2024-10-16 13:19:21,677 - pylabrobot - INFO - Sent command: A1PMQWid0003
+2024-10-16 13:19:21,677 - pylabrobot - DEBUG - Starting reading thread...
+2024-10-16 13:19:21,710 - pylabrobot - DEBUG - Received data: bytearray(b'A1PMQWid3er0qw1')
+2024-10-16 13:19:21,710 - pylabrobot - INFO - Received response: A1PMQWid3er0qw1
+2024-10-16 13:19:21,710 - pylabrobot - DEBUG - Reading thread stopped.
+2024-10-16 13:19:21,711 - pylabrobot - INFO - Sent command: A1PMDIid0004xp7095 7095 7095 7095 7095 7095 7095 7095yp3891 3623 3355 3087 2819 2551 2283 2016tp2450 2450 2450 2450 2450 2450 2450 2450tz1235 1235 1235 1235 1235 1235 1235 1235te2450 2450 2450 2450 2450 2450 2450 2450tm1 1 1 1 1 1 1 1tt1 1 1 1 1 1 1 1ts70
+2024-10-16 13:19:21,712 - pylabrobot - DEBUG - Starting reading thread...
+2024-10-16 13:19:24,714 - pylabrobot - DEBUG - Received data: bytearray(b'')
+2024-10-16 13:19:24,714 - pylabrobot - INFO - Received response: 
+2024-10-16 13:19:26,201 - pylabrobot - DEBUG - Received data: bytearray(b'A1PMDIid4er99es"P132"')
+2024-10-16 13:19:26,201 - pylabrobot - INFO - Received response: A1PMDIid4er99es"P132"
+2024-10-16 13:19:26,202 - pylabrobot - DEBUG - Reading thread stopped.
+2024-10-16 13:19:34,458 - pylabrobot - INFO - Sent command: A1PMQAid0005
+2024-10-16 13:19:34,459 - pylabrobot - DEBUG - Starting reading thread...
+2024-10-16 13:19:34,479 - pylabrobot - DEBUG - Received data: bytearray(b'A1PMQAid5er0rt1 0 0 0 0 0 0 0')
+2024-10-16 13:19:34,480 - pylabrobot - INFO - Received response: A1PMQAid5er0rt1 0 0 0 0 0 0 0
+2024-10-16 13:19:34,481 - pylabrobot - DEBUG - Reading thread stopped.
+2024-10-16 13:19:34,481 - pylabrobot - INFO - Sent command: A1AMQWid0006
+2024-10-16 13:19:34,482 - pylabrobot - DEBUG - Starting reading thread...
+2024-10-16 13:19:34,510 - pylabrobot - DEBUG - Received data: bytearray(b'A1AMQWid6er0qw1')
+2024-10-16 13:19:34,511 - pylabrobot - INFO - Received response: A1AMQWid6er0qw1
+2024-10-16 13:19:34,512 - pylabrobot - DEBUG - Reading thread stopped.
+2024-10-16 13:19:34,514 - pylabrobot - INFO - Sent command: A1PMQWid0007
+2024-10-16 13:19:34,516 - pylabrobot - DEBUG - Starting reading thread...
+2024-10-16 13:19:34,545 - pylabrobot - DEBUG - Received data: bytearray(b'A1PMQWid7er0qw1')
+2024-10-16 13:19:34,546 - pylabrobot - INFO - Received response: A1PMQWid7er0qw1
+2024-10-16 13:19:34,546 - pylabrobot - DEBUG - Reading thread stopped.
+2024-10-16 13:19:34,547 - pylabrobot - INFO - Sent command: A1PMDIid0008xp7095 7095 7095 7095 7095 7095 7095 7095yp3891 3623 3355 3087 2819 2551 2283 2016tp2450 2450 2450 2450 2450 2450 2450 2450tz1235 1235 1235 1235 1235 1235 1235 1235te2450 2450 2450 2450 2450 2450 2450 2450tm1 1 1 1 1 1 1 1tt1 1 1 1 1 1 1 1ts70
+2024-10-16 13:19:34,548 - pylabrobot - DEBUG - Starting reading thread...
+2024-10-16 13:19:37,551 - pylabrobot - DEBUG - Received data: bytearray(b'')
+2024-10-16 13:19:37,552 - pylabrobot - INFO - Received response: 
+2024-10-16 13:19:37,596 - pylabrobot - DEBUG - Received data: bytearray(b'A1PMDIid8er99es"P132"')
+2024-10-16 13:19:37,597 - pylabrobot - INFO - Received response: A1PMDIid8er99es"P132"
+2024-10-16 13:19:37,597 - pylabrobot - DEBUG - Reading thread stopped.
+2024-10-16 13:19:46,106 - pylabrobot - INFO - Finding USB device...
+2024-10-16 13:19:46,152 - pylabrobot - INFO - Found USB device.
+2024-10-16 13:19:46,154 - pylabrobot - INFO - Found endpoints. 
+Write:
+       ENDPOINT 0x2: Bulk OUT ===============================
+       bLength          :    0x7 (7 bytes)
+       bDescriptorType  :    0x5 Endpoint
+       bEndpointAddress :    0x2 OUT
+       bmAttributes     :    0x2 Bulk
+       wMaxPacketSize   :   0x40 (64 bytes)
+       bInterval        :    0x0 
+Read:
+       ENDPOINT 0x81: Bulk IN ===============================
+       bLength          :    0x7 (7 bytes)
+       bDescriptorType  :    0x5 Endpoint
+       bEndpointAddress :   0x81 IN
+       bmAttributes     :    0x2 Bulk
+       wMaxPacketSize   :   0x40 (64 bytes)
+       bInterval        :    0x0
+2024-10-16 13:19:49,158 - pylabrobot - INFO - Sent command: A1PMQAid0001
+2024-10-16 13:19:49,159 - pylabrobot - DEBUG - Starting reading thread...
+2024-10-16 13:19:49,180 - pylabrobot - DEBUG - Received data: bytearray(b'A1PMQAid1er0rt1 0 0 0 0 0 0 0')
+2024-10-16 13:19:49,181 - pylabrobot - INFO - Received response: A1PMQAid1er0rt1 0 0 0 0 0 0 0
+2024-10-16 13:19:49,181 - pylabrobot - DEBUG - Reading thread stopped.
+2024-10-16 13:19:49,182 - pylabrobot - INFO - Sent command: A1AMQWid0002
+2024-10-16 13:19:49,182 - pylabrobot - DEBUG - Starting reading thread...
+2024-10-16 13:19:49,210 - pylabrobot - DEBUG - Received data: bytearray(b'A1AMQWid2er0qw1')
+2024-10-16 13:19:49,210 - pylabrobot - INFO - Received response: A1AMQWid2er0qw1
+2024-10-16 13:19:49,211 - pylabrobot - DEBUG - Reading thread stopped.
+2024-10-16 13:19:49,211 - pylabrobot - INFO - Sent command: A1PMQWid0003
+2024-10-16 13:19:49,212 - pylabrobot - DEBUG - Starting reading thread...
+2024-10-16 13:19:49,240 - pylabrobot - DEBUG - Received data: bytearray(b'A1PMQWid3er0qw1')
+2024-10-16 13:19:49,240 - pylabrobot - INFO - Received response: A1PMQWid3er0qw1
+2024-10-16 13:19:49,241 - pylabrobot - DEBUG - Reading thread stopped.
+2024-10-16 13:19:49,242 - pylabrobot - INFO - Sent command: A1PMDIid0004xp7095 7095 7095 7095 7095 7095 7095 7095yp3891 3623 3355 3087 2819 2551 2283 2016tp2450 2450 2450 2450 2450 2450 2450 2450tz1235 1235 1235 1235 1235 1235 1235 1235te2450 2450 2450 2450 2450 2450 2450 2450tm1 1 1 1 1 1 1 1tt1 1 1 1 1 1 1 1ts70
+2024-10-16 13:19:49,242 - pylabrobot - DEBUG - Starting reading thread...
+2024-10-16 13:19:52,267 - pylabrobot - DEBUG - Received data: bytearray(b'A1PMDIid4er99es"P132"')
+2024-10-16 13:19:52,267 - pylabrobot - INFO - Received response: A1PMDIid4er99es"P132"
+2024-10-16 13:19:52,268 - pylabrobot - DEBUG - Reading thread stopped.
+2024-10-16 13:20:35,205 - pylabrobot - INFO - Finding USB device...
+2024-10-16 13:20:35,242 - pylabrobot - INFO - Found USB device.
+2024-10-16 13:20:35,242 - pylabrobot - INFO - Found endpoints. 
+Write:
+       ENDPOINT 0x2: Bulk OUT ===============================
+       bLength          :    0x7 (7 bytes)
+       bDescriptorType  :    0x5 Endpoint
+       bEndpointAddress :    0x2 OUT
+       bmAttributes     :    0x2 Bulk
+       wMaxPacketSize   :   0x40 (64 bytes)
+       bInterval        :    0x0 
+Read:
+       ENDPOINT 0x81: Bulk IN ===============================
+       bLength          :    0x7 (7 bytes)
+       bDescriptorType  :    0x5 Endpoint
+       bEndpointAddress :   0x81 IN
+       bmAttributes     :    0x2 Bulk
+       wMaxPacketSize   :   0x40 (64 bytes)
+       bInterval        :    0x0
+2024-10-16 13:20:38,247 - pylabrobot - INFO - Sent command: A1PMQAid0001
+2024-10-16 13:20:38,248 - pylabrobot - DEBUG - Starting reading thread...
+2024-10-16 13:20:39,685 - pylabrobot - DEBUG - Received data: bytearray(b'A1PMQAid1er0rt1 0 0 0 0 0 0 0')
+2024-10-16 13:20:39,686 - pylabrobot - INFO - Received response: A1PMQAid1er0rt1 0 0 0 0 0 0 0
+2024-10-16 13:20:39,686 - pylabrobot - DEBUG - Reading thread stopped.
+2024-10-16 13:20:39,687 - pylabrobot - INFO - Sent command: A1AMQWid0002
+2024-10-16 13:20:39,687 - pylabrobot - DEBUG - Starting reading thread...
+2024-10-16 13:20:39,717 - pylabrobot - DEBUG - Received data: bytearray(b'A1AMQWid2er0qw0')
+2024-10-16 13:20:39,717 - pylabrobot - INFO - Received response: A1AMQWid2er0qw0
+2024-10-16 13:20:39,717 - pylabrobot - DEBUG - Reading thread stopped.
+2024-10-16 13:20:39,718 - pylabrobot - INFO - Sent command: A1AMMIid0003
+2024-10-16 13:20:39,718 - pylabrobot - DEBUG - Starting reading thread...
+2024-10-16 13:20:43,028 - pylabrobot - DEBUG - Received data: bytearray(b'')
+2024-10-16 13:20:43,028 - pylabrobot - INFO - Received response: 
+2024-10-16 13:20:46,031 - pylabrobot - DEBUG - Received data: bytearray(b'')
+2024-10-16 13:20:46,031 - pylabrobot - INFO - Received response: 
+2024-10-16 13:20:49,033 - pylabrobot - DEBUG - Received data: bytearray(b'')
+2024-10-16 13:20:49,034 - pylabrobot - INFO - Received response: 
+2024-10-16 13:20:51,896 - pylabrobot - DEBUG - Received data: bytearray(b'A1AMMIid3er0')
+2024-10-16 13:20:51,896 - pylabrobot - INFO - Received response: A1AMMIid3er0
+2024-10-16 13:20:51,896 - pylabrobot - DEBUG - Reading thread stopped.
+2024-10-16 13:20:51,897 - pylabrobot - INFO - Sent command: A1PMQWid0004
+2024-10-16 13:20:51,897 - pylabrobot - DEBUG - Starting reading thread...
+2024-10-16 13:20:51,927 - pylabrobot - DEBUG - Received data: bytearray(b'A1PMQWid4er0qw0')
+2024-10-16 13:20:51,927 - pylabrobot - INFO - Received response: A1PMQWid4er0qw0
+2024-10-16 13:20:51,927 - pylabrobot - DEBUG - Reading thread stopped.
+2024-10-16 13:20:51,929 - pylabrobot - INFO - Sent command: A1PMDIid0005xp7095 7095 7095 7095 7095 7095 7095 7095yp3891 3623 3355 3087 2819 2551 2283 2016tp2450 2450 2450 2450 2450 2450 2450 2450tz1235 1235 1235 1235 1235 1235 1235 1235te2450 2450 2450 2450 2450 2450 2450 2450tm1 1 1 1 1 1 1 1tt1 1 1 1 1 1 1 1ts70
+2024-10-16 13:20:51,929 - pylabrobot - DEBUG - Starting reading thread...
+2024-10-16 13:20:55,249 - pylabrobot - DEBUG - Received data: bytearray(b'')
+2024-10-16 13:20:55,249 - pylabrobot - INFO - Received response: 
+2024-10-16 13:20:58,252 - pylabrobot - DEBUG - Received data: bytearray(b'')
+2024-10-16 13:20:58,252 - pylabrobot - INFO - Received response: 
+2024-10-16 13:21:01,254 - pylabrobot - DEBUG - Received data: bytearray(b'')
+2024-10-16 13:21:01,255 - pylabrobot - INFO - Received response: 
+2024-10-16 13:21:04,257 - pylabrobot - DEBUG - Received data: bytearray(b'')
+2024-10-16 13:21:04,257 - pylabrobot - INFO - Received response: 
+2024-10-16 13:21:07,260 - pylabrobot - DEBUG - Received data: bytearray(b'')
+2024-10-16 13:21:07,260 - pylabrobot - INFO - Received response: 
+2024-10-16 13:21:09,853 - pylabrobot - DEBUG - Received data: bytearray(b'A1PMDIid5er0')
+2024-10-16 13:21:09,853 - pylabrobot - INFO - Received response: A1PMDIid5er0
+2024-10-16 13:21:09,853 - pylabrobot - DEBUG - Reading thread stopped.
+2024-10-16 13:21:09,854 - pylabrobot - INFO - Sent command: I1AMQWid0006
+2024-10-16 13:21:09,854 - pylabrobot - DEBUG - Starting reading thread...
+2024-10-16 13:21:09,869 - pylabrobot - DEBUG - Received data: bytearray(b'I1AMQWid6er0qw0')
+2024-10-16 13:21:09,869 - pylabrobot - INFO - Received response: I1AMQWid6er0qw0
+2024-10-16 13:21:09,869 - pylabrobot - DEBUG - Reading thread stopped.
+2024-10-16 13:21:09,869 - pylabrobot - INFO - Sent command: I1AMMIid0007
+2024-10-16 13:21:09,870 - pylabrobot - DEBUG - Starting reading thread...
+2024-10-16 13:21:13,244 - pylabrobot - DEBUG - Received data: bytearray(b'')
+2024-10-16 13:21:13,244 - pylabrobot - INFO - Received response: 
+2024-10-16 13:21:16,591 - pylabrobot - DEBUG - Received data: bytearray(b'')
+2024-10-16 13:21:16,591 - pylabrobot - INFO - Received response: 
+2024-10-16 13:21:19,593 - pylabrobot - DEBUG - Received data: bytearray(b'')
+2024-10-16 13:21:19,604 - pylabrobot - INFO - Received response: 
+2024-10-16 13:21:22,903 - pylabrobot - DEBUG - Received data: bytearray(b'')
+2024-10-16 13:21:22,903 - pylabrobot - INFO - Received response: 
+2024-10-16 13:21:25,660 - pylabrobot - DEBUG - Received data: bytearray(b'I1AMMIid7er0')
+2024-10-16 13:21:25,660 - pylabrobot - INFO - Received response: I1AMMIid7er0
+2024-10-16 13:21:25,660 - pylabrobot - DEBUG - Reading thread stopped.
+2024-10-16 13:21:25,660 - pylabrobot - INFO - Sent command: A1HMQWid0008
+2024-10-16 13:21:25,661 - pylabrobot - DEBUG - Starting reading thread...
+2024-10-16 13:21:25,693 - pylabrobot - DEBUG - Received data: bytearray(b'A1HMQWid8er0qw0')
+2024-10-16 13:21:25,693 - pylabrobot - INFO - Received response: A1HMQWid8er0qw0
+2024-10-16 13:21:25,693 - pylabrobot - DEBUG - Reading thread stopped.
+2024-10-16 13:21:25,694 - pylabrobot - INFO - Sent command: A1HMDIid0009xp7347yp2684zp0th2450te2450tz2020tt4
+2024-10-16 13:21:25,694 - pylabrobot - DEBUG - Starting reading thread...
+2024-10-16 13:21:28,697 - pylabrobot - DEBUG - Received data: bytearray(b'')
+2024-10-16 13:21:28,697 - pylabrobot - INFO - Received response: 
+2024-10-16 13:21:32,049 - pylabrobot - DEBUG - Received data: bytearray(b'')
+2024-10-16 13:21:32,049 - pylabrobot - INFO - Received response: 
+2024-10-16 13:21:35,389 - pylabrobot - DEBUG - Received data: bytearray(b'')
+2024-10-16 13:21:35,389 - pylabrobot - INFO - Received response: 
+2024-10-16 13:21:38,391 - pylabrobot - DEBUG - Received data: bytearray(b'')
+2024-10-16 13:21:38,391 - pylabrobot - INFO - Received response: 
+2024-10-16 13:21:41,150 - pylabrobot - DEBUG - Received data: bytearray(b'A1HMDIid9er0')
+2024-10-16 13:21:41,150 - pylabrobot - INFO - Received response: A1HMDIid9er0
+2024-10-16 13:21:41,150 - pylabrobot - DEBUG - Reading thread stopped.
+2024-10-16 13:21:41,151 - pylabrobot - INFO - Sent command: A1RMQWid0010
+2024-10-16 13:21:41,151 - pylabrobot - DEBUG - Starting reading thread...
+2024-10-16 13:21:41,183 - pylabrobot - DEBUG - Received data: bytearray(b'A1RMQWid10er0qw0')
+2024-10-16 13:21:41,183 - pylabrobot - INFO - Received response: A1RMQWid10er0qw0
+2024-10-16 13:21:41,183 - pylabrobot - DEBUG - Reading thread stopped.
+2024-10-16 13:21:41,184 - pylabrobot - INFO - Sent command: A1RMDIid0011
+2024-10-16 13:21:41,184 - pylabrobot - DEBUG - Starting reading thread...
+2024-10-16 13:21:44,186 - pylabrobot - DEBUG - Received data: bytearray(b'')
+2024-10-16 13:21:44,186 - pylabrobot - INFO - Received response: 
+2024-10-16 13:21:47,563 - pylabrobot - DEBUG - Received data: bytearray(b'')
+2024-10-16 13:21:47,563 - pylabrobot - INFO - Received response: 
+2024-10-16 13:21:50,849 - pylabrobot - DEBUG - Received data: bytearray(b'')
+2024-10-16 13:21:50,863 - pylabrobot - INFO - Received response: 
+2024-10-16 13:21:53,337 - pylabrobot - DEBUG - Received data: bytearray(b'A1RMDIid11er0')
+2024-10-16 13:21:53,337 - pylabrobot - INFO - Received response: A1RMDIid11er0
+2024-10-16 13:21:53,337 - pylabrobot - DEBUG - Reading thread stopped.
+2024-10-16 13:21:53,338 - pylabrobot - INFO - Sent command: A1RMGPid0012
+2024-10-16 13:21:53,338 - pylabrobot - DEBUG - Starting reading thread...
+2024-10-16 13:21:56,341 - pylabrobot - DEBUG - Received data: bytearray(b'')
+2024-10-16 13:21:56,341 - pylabrobot - INFO - Received response: 
+2024-10-16 13:21:59,308 - pylabrobot - DEBUG - Received data: bytearray(b'A1RMGPid12er0')
+2024-10-16 13:21:59,308 - pylabrobot - INFO - Received response: A1RMGPid12er0
+2024-10-16 13:21:59,308 - pylabrobot - DEBUG - Reading thread stopped.
+2024-10-16 13:22:28,946 - pylabrobot - INFO - Sent command: A1AMTTid0013ti01tf1tl0871tv10650tg3tu0
+2024-10-16 13:22:28,947 - pylabrobot - DEBUG - Starting reading thread...
+2024-10-16 13:22:28,950 - pylabrobot - DEBUG - Received data: bytearray(b'A1AMTTid13er0')
+2024-10-16 13:22:28,950 - pylabrobot - INFO - Received response: A1AMTTid13er0
+2024-10-16 13:22:28,951 - pylabrobot - DEBUG - Reading thread stopped.
+2024-10-16 13:22:28,951 - pylabrobot - INFO - Sent command: A1PMTPid0014xp6489 0&yp2748 0&tm1 0&tt1&tp2265&tz2165&th2450&te2450&ba0&td1&
+2024-10-16 13:22:28,951 - pylabrobot - DEBUG - Starting reading thread...
+2024-10-16 13:22:32,304 - pylabrobot - DEBUG - Received data: bytearray(b'')
+2024-10-16 13:22:32,304 - pylabrobot - INFO - Received response: 
+2024-10-16 13:22:35,331 - pylabrobot - DEBUG - Received data: bytearray(b'')
+2024-10-16 13:22:35,331 - pylabrobot - INFO - Received response: 
+2024-10-16 13:22:38,059 - pylabrobot - DEBUG - Received data: bytearray(b'A1PMTPid14er0')
+2024-10-16 13:22:38,059 - pylabrobot - INFO - Received response: A1PMTPid14er0
+2024-10-16 13:22:38,059 - pylabrobot - DEBUG - Reading thread stopped.
+2024-10-16 13:22:39,719 - pylabrobot - INFO - Sent command: A1PMTRid0015xp6975 0&yp3156 0&tp1471&tz1371&th2450&te2450&tm1 0&ts0td0&
+2024-10-16 13:22:39,719 - pylabrobot - DEBUG - Starting reading thread...
+2024-10-16 13:22:43,040 - pylabrobot - DEBUG - Received data: bytearray(b'')
+2024-10-16 13:22:43,040 - pylabrobot - INFO - Received response: 
+2024-10-16 13:22:43,203 - pylabrobot - DEBUG - Received data: bytearray(b'A1PMTRid15er99es"P162"')
+2024-10-16 13:22:43,204 - pylabrobot - INFO - Received response: A1PMTRid15er99es"P162"
+2024-10-16 13:22:43,204 - pylabrobot - DEBUG - Reading thread stopped.
+2024-10-16 13:24:07,203 - pylabrobot - INFO - Sent command: A1PMTRid0016xp6489 0&yp2748 0&tp1414&tz1314&th2450&te2450&tm1 0&ts0td0&
+2024-10-16 13:24:07,204 - pylabrobot - DEBUG - Starting reading thread...
+2024-10-16 13:24:10,206 - pylabrobot - DEBUG - Received data: bytearray(b'')
+2024-10-16 13:24:10,207 - pylabrobot - INFO - Received response: 
+2024-10-16 13:24:13,209 - pylabrobot - DEBUG - Received data: bytearray(b'')
+2024-10-16 13:24:13,209 - pylabrobot - INFO - Received response: 
+2024-10-16 13:24:14,090 - pylabrobot - DEBUG - Received data: bytearray(b'A1PMTRid16er0')
+2024-10-16 13:24:14,090 - pylabrobot - INFO - Received response: A1PMTRid16er0
+2024-10-16 13:24:14,090 - pylabrobot - DEBUG - Reading thread stopped.
+2024-10-16 13:24:24,417 - pylabrobot - INFO - Finding USB device...
+2024-10-16 13:24:24,454 - pylabrobot - INFO - Found USB device.
+2024-10-16 13:24:24,455 - pylabrobot - INFO - Found endpoints. 
+Write:
+       ENDPOINT 0x2: Bulk OUT ===============================
+       bLength          :    0x7 (7 bytes)
+       bDescriptorType  :    0x5 Endpoint
+       bEndpointAddress :    0x2 OUT
+       bmAttributes     :    0x2 Bulk
+       wMaxPacketSize   :   0x40 (64 bytes)
+       bInterval        :    0x0 
+Read:
+       ENDPOINT 0x81: Bulk IN ===============================
+       bLength          :    0x7 (7 bytes)
+       bDescriptorType  :    0x5 Endpoint
+       bEndpointAddress :   0x81 IN
+       bmAttributes     :    0x2 Bulk
+       wMaxPacketSize   :   0x40 (64 bytes)
+       bInterval        :    0x0
+2024-10-16 13:24:27,458 - pylabrobot - INFO - Sent command: A1PMQAid0001
+2024-10-16 13:24:27,459 - pylabrobot - DEBUG - Starting reading thread...
+2024-10-16 13:24:27,480 - pylabrobot - DEBUG - Received data: bytearray(b'A1PMQAid1er0rt0 0 0 0 0 0 0 0')
+2024-10-16 13:24:27,480 - pylabrobot - INFO - Received response: A1PMQAid1er0rt0 0 0 0 0 0 0 0
+2024-10-16 13:24:27,481 - pylabrobot - DEBUG - Reading thread stopped.
+2024-10-16 13:24:27,481 - pylabrobot - INFO - Sent command: A1AMQWid0002
+2024-10-16 13:24:27,481 - pylabrobot - DEBUG - Starting reading thread...
+2024-10-16 13:24:27,515 - pylabrobot - DEBUG - Received data: bytearray(b'A1AMQWid2er0qw1')
+2024-10-16 13:24:27,515 - pylabrobot - INFO - Received response: A1AMQWid2er0qw1
+2024-10-16 13:24:27,515 - pylabrobot - DEBUG - Reading thread stopped.
+2024-10-16 13:24:27,516 - pylabrobot - INFO - Sent command: A1PMQWid0003
+2024-10-16 13:24:27,516 - pylabrobot - DEBUG - Starting reading thread...
+2024-10-16 13:24:27,545 - pylabrobot - DEBUG - Received data: bytearray(b'A1PMQWid3er0qw1')
+2024-10-16 13:24:27,545 - pylabrobot - INFO - Received response: A1PMQWid3er0qw1
+2024-10-16 13:24:27,545 - pylabrobot - DEBUG - Reading thread stopped.
+2024-10-16 13:24:27,546 - pylabrobot - INFO - Sent command: I1AMQWid0004
+2024-10-16 13:24:27,546 - pylabrobot - DEBUG - Starting reading thread...
+2024-10-16 13:24:27,561 - pylabrobot - DEBUG - Received data: bytearray(b'I1AMQWid4er0qw1')
+2024-10-16 13:24:27,561 - pylabrobot - INFO - Received response: I1AMQWid4er0qw1
+2024-10-16 13:24:27,561 - pylabrobot - DEBUG - Reading thread stopped.
+2024-10-16 13:24:27,562 - pylabrobot - INFO - Sent command: A1HMQWid0005
+2024-10-16 13:24:27,562 - pylabrobot - DEBUG - Starting reading thread...
+2024-10-16 13:24:27,595 - pylabrobot - DEBUG - Received data: bytearray(b'A1HMQWid5er0qw1')
+2024-10-16 13:24:27,595 - pylabrobot - INFO - Received response: A1HMQWid5er0qw1
+2024-10-16 13:24:27,595 - pylabrobot - DEBUG - Reading thread stopped.
+2024-10-16 13:24:27,595 - pylabrobot - INFO - Sent command: A1RMQWid0006
+2024-10-16 13:24:27,596 - pylabrobot - DEBUG - Starting reading thread...
+2024-10-16 13:24:27,625 - pylabrobot - DEBUG - Received data: bytearray(b'A1RMQWid6er0qw1')
+2024-10-16 13:24:27,625 - pylabrobot - INFO - Received response: A1RMQWid6er0qw1
+2024-10-16 13:24:27,625 - pylabrobot - DEBUG - Reading thread stopped.
+2024-10-16 13:24:39,261 - pylabrobot - INFO - Sent command: A1AMTTid0007ti01tf1tl0871tv10650tg3tu0
+2024-10-16 13:24:39,262 - pylabrobot - DEBUG - Starting reading thread...
+2024-10-16 13:24:39,266 - pylabrobot - DEBUG - Received data: bytearray(b'A1AMTTid7er0')
+2024-10-16 13:24:39,266 - pylabrobot - INFO - Received response: A1AMTTid7er0
+2024-10-16 13:24:39,266 - pylabrobot - DEBUG - Reading thread stopped.
+2024-10-16 13:24:39,267 - pylabrobot - INFO - Sent command: A1PMTPid0008xp6489 0&yp2748 0&tm1 0&tt1&tp2265&tz2165&th2450&te2450&ba0&td1&
+2024-10-16 13:24:39,267 - pylabrobot - DEBUG - Starting reading thread...
+2024-10-16 13:24:42,524 - pylabrobot - DEBUG - Received data: bytearray(b'')
+2024-10-16 13:24:42,524 - pylabrobot - INFO - Received response: 
+2024-10-16 13:24:44,610 - pylabrobot - DEBUG - Received data: bytearray(b'A1PMTPid8er0')
+2024-10-16 13:24:44,610 - pylabrobot - INFO - Received response: A1PMTPid8er0
+2024-10-16 13:24:44,610 - pylabrobot - DEBUG - Reading thread stopped.
+2024-10-16 13:24:47,481 - pylabrobot - INFO - Sent command: A1PMTRid0009xp7075 0&yp3156 0&tp1471&tz1371&th2450&te2450&tm1 0&ts0td0&
+2024-10-16 13:24:47,481 - pylabrobot - DEBUG - Starting reading thread...
+2024-10-16 13:24:50,484 - pylabrobot - DEBUG - Received data: bytearray(b'')
+2024-10-16 13:24:50,484 - pylabrobot - INFO - Received response: 
+2024-10-16 13:24:51,059 - pylabrobot - DEBUG - Received data: bytearray(b'A1PMTRid9er99es"P162"')
+2024-10-16 13:24:51,059 - pylabrobot - INFO - Received response: A1PMTRid9er99es"P162"
+2024-10-16 13:24:51,060 - pylabrobot - DEBUG - Reading thread stopped.
+2024-10-16 13:24:54,764 - pylabrobot - INFO - Sent command: A1PMTRid0010xp6489 0&yp2748 0&tp1414&tz1314&th2450&te2450&tm1 0&ts0td0&
+2024-10-16 13:24:54,765 - pylabrobot - DEBUG - Starting reading thread...
+2024-10-16 13:24:58,099 - pylabrobot - DEBUG - Received data: bytearray(b'')
+2024-10-16 13:24:58,099 - pylabrobot - INFO - Received response: 
+2024-10-16 13:25:01,101 - pylabrobot - DEBUG - Received data: bytearray(b'')
+2024-10-16 13:25:01,102 - pylabrobot - INFO - Received response: 
+2024-10-16 13:25:01,772 - pylabrobot - DEBUG - Received data: bytearray(b'A1PMTRid10er0')
+2024-10-16 13:25:01,772 - pylabrobot - INFO - Received response: A1PMTRid10er0
+2024-10-16 13:25:01,772 - pylabrobot - DEBUG - Reading thread stopped.
+2024-10-16 13:25:19,808 - pylabrobot - INFO - Finding USB device...
+2024-10-16 13:25:19,867 - pylabrobot - INFO - Found USB device.
+2024-10-16 13:25:19,883 - pylabrobot - INFO - Found endpoints. 
+Write:
+       ENDPOINT 0x2: Bulk OUT ===============================
+       bLength          :    0x7 (7 bytes)
+       bDescriptorType  :    0x5 Endpoint
+       bEndpointAddress :    0x2 OUT
+       bmAttributes     :    0x2 Bulk
+       wMaxPacketSize   :   0x40 (64 bytes)
+       bInterval        :    0x0 
+Read:
+       ENDPOINT 0x81: Bulk IN ===============================
+       bLength          :    0x7 (7 bytes)
+       bDescriptorType  :    0x5 Endpoint
+       bEndpointAddress :   0x81 IN
+       bmAttributes     :    0x2 Bulk
+       wMaxPacketSize   :   0x40 (64 bytes)
+       bInterval        :    0x0
+2024-10-16 13:25:22,887 - pylabrobot - INFO - Sent command: A1PMQAid0001
+2024-10-16 13:25:22,905 - pylabrobot - DEBUG - Starting reading thread...
+2024-10-16 13:25:22,909 - pylabrobot - DEBUG - Received data: bytearray(b'A1PMQAid1er0rt0 0 0 0 0 0 0 0')
+2024-10-16 13:25:22,925 - pylabrobot - INFO - Received response: A1PMQAid1er0rt0 0 0 0 0 0 0 0
+2024-10-16 13:25:22,925 - pylabrobot - DEBUG - Reading thread stopped.
+2024-10-16 13:25:22,926 - pylabrobot - INFO - Sent command: A1AMQWid0002
+2024-10-16 13:25:22,927 - pylabrobot - DEBUG - Starting reading thread...
+2024-10-16 13:25:22,956 - pylabrobot - DEBUG - Received data: bytearray(b'A1AMQWid2er0qw1')
+2024-10-16 13:25:22,956 - pylabrobot - INFO - Received response: A1AMQWid2er0qw1
+2024-10-16 13:25:22,956 - pylabrobot - DEBUG - Reading thread stopped.
+2024-10-16 13:25:22,956 - pylabrobot - INFO - Sent command: A1PMQWid0003
+2024-10-16 13:25:22,957 - pylabrobot - DEBUG - Starting reading thread...
+2024-10-16 13:25:22,986 - pylabrobot - DEBUG - Received data: bytearray(b'A1PMQWid3er0qw1')
+2024-10-16 13:25:22,986 - pylabrobot - INFO - Received response: A1PMQWid3er0qw1
+2024-10-16 13:25:22,986 - pylabrobot - DEBUG - Reading thread stopped.
+2024-10-16 13:25:22,986 - pylabrobot - INFO - Sent command: I1AMQWid0004
+2024-10-16 13:25:22,987 - pylabrobot - DEBUG - Starting reading thread...
+2024-10-16 13:25:23,002 - pylabrobot - DEBUG - Received data: bytearray(b'I1AMQWid4er0qw1')
+2024-10-16 13:25:23,002 - pylabrobot - INFO - Received response: I1AMQWid4er0qw1
+2024-10-16 13:25:23,002 - pylabrobot - DEBUG - Reading thread stopped.
+2024-10-16 13:25:23,003 - pylabrobot - INFO - Sent command: A1HMQWid0005
+2024-10-16 13:25:23,003 - pylabrobot - DEBUG - Starting reading thread...
+2024-10-16 13:25:23,036 - pylabrobot - DEBUG - Received data: bytearray(b'A1HMQWid5er0qw1')
+2024-10-16 13:25:23,036 - pylabrobot - INFO - Received response: A1HMQWid5er0qw1
+2024-10-16 13:25:23,036 - pylabrobot - DEBUG - Reading thread stopped.
+2024-10-16 13:25:23,036 - pylabrobot - INFO - Sent command: A1RMQWid0006
+2024-10-16 13:25:23,037 - pylabrobot - DEBUG - Starting reading thread...
+2024-10-16 13:25:23,066 - pylabrobot - DEBUG - Received data: bytearray(b'A1RMQWid6er0qw1')
+2024-10-16 13:25:23,066 - pylabrobot - INFO - Received response: A1RMQWid6er0qw1
+2024-10-16 13:25:23,066 - pylabrobot - DEBUG - Reading thread stopped.
+2024-10-16 13:25:39,473 - pylabrobot - INFO - Sent command: A1AMTTid0007ti01tf1tl0871tv10650tg3tu0
+2024-10-16 13:25:39,473 - pylabrobot - DEBUG - Starting reading thread...
+2024-10-16 13:25:39,477 - pylabrobot - DEBUG - Received data: bytearray(b'A1AMTTid7er0')
+2024-10-16 13:25:39,478 - pylabrobot - INFO - Received response: A1AMTTid7er0
+2024-10-16 13:25:39,478 - pylabrobot - DEBUG - Reading thread stopped.
+2024-10-16 13:25:39,478 - pylabrobot - INFO - Sent command: A1PMTPid0008xp6489 0&yp2748 0&tm1 0&tt1&tp2265&tz2165&th2450&te2450&ba0&td1&
+2024-10-16 13:25:39,478 - pylabrobot - DEBUG - Starting reading thread...
+2024-10-16 13:25:42,709 - pylabrobot - DEBUG - Received data: bytearray(b'')
+2024-10-16 13:25:42,709 - pylabrobot - INFO - Received response: 
+2024-10-16 13:25:44,831 - pylabrobot - DEBUG - Received data: bytearray(b'A1PMTPid8er0')
+2024-10-16 13:25:44,831 - pylabrobot - INFO - Received response: A1PMTPid8er0
+2024-10-16 13:25:44,831 - pylabrobot - DEBUG - Reading thread stopped.
+2024-10-16 13:25:49,544 - pylabrobot - INFO - Sent command: A1PMTRid0009xp7375 0&yp3156 0&tp1471&tz1371&th2450&te2450&tm1 0&ts0td0&
+2024-10-16 13:25:49,544 - pylabrobot - DEBUG - Starting reading thread...
+2024-10-16 13:25:52,547 - pylabrobot - DEBUG - Received data: bytearray(b'')
+2024-10-16 13:25:52,547 - pylabrobot - INFO - Received response: 
+2024-10-16 13:25:55,549 - pylabrobot - DEBUG - Received data: bytearray(b'')
+2024-10-16 13:25:55,549 - pylabrobot - INFO - Received response: 
+2024-10-16 13:25:56,774 - pylabrobot - DEBUG - Received data: bytearray(b'A1PMTRid9er0')
+2024-10-16 13:25:56,774 - pylabrobot - INFO - Received response: A1PMTRid9er0
+2024-10-16 13:25:56,774 - pylabrobot - DEBUG - Reading thread stopped.
+2024-10-16 13:28:41,659 - pylabrobot - INFO - Sent command: A1PMTPid0010xp6489 0&yp2748 0&tm1 0&tt1&tp2265&tz2165&th2450&te2450&ba0&td1&
+2024-10-16 13:28:41,659 - pylabrobot - DEBUG - Starting reading thread...
+2024-10-16 13:28:45,029 - pylabrobot - DEBUG - Received data: bytearray(b'')
+2024-10-16 13:28:45,030 - pylabrobot - INFO - Received response: 
+2024-10-16 13:28:48,032 - pylabrobot - DEBUG - Received data: bytearray(b'')
+2024-10-16 13:28:48,033 - pylabrobot - INFO - Received response: 
+2024-10-16 13:28:48,650 - pylabrobot - DEBUG - Received data: bytearray(b'A1PMTPid10er0')
+2024-10-16 13:28:48,650 - pylabrobot - INFO - Received response: A1PMTPid10er0
+2024-10-16 13:28:48,650 - pylabrobot - DEBUG - Reading thread stopped.
+2024-10-16 13:28:52,256 - pylabrobot - INFO - Sent command: A1PMTRid0011xp7375 0&yp3156 0&tp1471&tz1371&th2450&te2450&tm1 0&ts0td0&
+2024-10-16 13:28:52,256 - pylabrobot - DEBUG - Starting reading thread...
+2024-10-16 13:28:55,570 - pylabrobot - DEBUG - Received data: bytearray(b'')
+2024-10-16 13:28:55,570 - pylabrobot - INFO - Received response: 
+2024-10-16 13:28:58,572 - pylabrobot - DEBUG - Received data: bytearray(b'')
+2024-10-16 13:28:58,572 - pylabrobot - INFO - Received response: 
+2024-10-16 13:28:59,485 - pylabrobot - DEBUG - Received data: bytearray(b'A1PMTRid11er0')
+2024-10-16 13:28:59,485 - pylabrobot - INFO - Received response: A1PMTRid11er0
+2024-10-16 13:28:59,485 - pylabrobot - DEBUG - Reading thread stopped.
+2024-10-16 13:29:27,526 - pylabrobot - INFO - Sent command: A1AMTTid0012ti02tf1tl0519tv03600tg2tu0
+2024-10-16 13:29:27,527 - pylabrobot - DEBUG - Starting reading thread...
+2024-10-16 13:29:27,530 - pylabrobot - DEBUG - Received data: bytearray(b'A1AMTTid12er0')
+2024-10-16 13:29:27,530 - pylabrobot - INFO - Received response: A1AMTTid12er0
+2024-10-16 13:29:27,531 - pylabrobot - DEBUG - Reading thread stopped.
+2024-10-16 13:29:27,532 - pylabrobot - INFO - Sent command: A1PMTPid0013xp5679 5679 5679 5679 5679 5679 5679 5679yp2418 2328 2238 2148 2058 1968 1878 1788tm1 1 1 1 1 1 1 1tt2 2 2 2 2 2 2 2tp2243 2243 2243 2243 2243 2243 2243 2243tz2163 2163 2163 2163 2163 2163 2163 2163th2450 2450 2450 2450 2450 2450 2450 2450te2450 2450 2450 2450 2450 2450 2450 2450ba0 0 0 0 0 0 0 0td1 1 1 1 1 1 1 1
+2024-10-16 13:29:27,532 - pylabrobot - DEBUG - Starting reading thread...
+2024-10-16 13:29:30,534 - pylabrobot - DEBUG - Received data: bytearray(b'')
+2024-10-16 13:29:30,535 - pylabrobot - INFO - Received response: 
+2024-10-16 13:29:33,537 - pylabrobot - DEBUG - Received data: bytearray(b'')
+2024-10-16 13:29:33,537 - pylabrobot - INFO - Received response: 
+2024-10-16 13:29:35,340 - pylabrobot - DEBUG - Received data: bytearray(b'A1PMTPid13er0')
+2024-10-16 13:29:35,341 - pylabrobot - INFO - Received response: A1PMTPid13er0
+2024-10-16 13:29:35,341 - pylabrobot - DEBUG - Reading thread stopped.
+2024-10-16 13:29:41,252 - pylabrobot - INFO - Sent command: A1PMTRid0014xp7375 7375 7375 7375 7375 7375 7375 7375yp4167 3878 3589 3300 3011 2722 2433 2144tp1471 1471 1471 1471 1471 1471 1471 1471tz1371 1371 1371 1371 1371 1371 1371 1371th2450 2450 2450 2450 2450 2450 2450 2450te2450 2450 2450 2450 2450 2450 2450 2450tm1 1 1 1 1 1 1 1ts0td0 0 0 0 0 0 0 0
+2024-10-16 13:29:41,253 - pylabrobot - DEBUG - Starting reading thread...
+2024-10-16 13:29:44,255 - pylabrobot - DEBUG - Received data: bytearray(b'')
+2024-10-16 13:29:44,255 - pylabrobot - INFO - Received response: 
+2024-10-16 13:29:47,465 - pylabrobot - DEBUG - Received data: bytearray(b'')
+2024-10-16 13:29:47,465 - pylabrobot - INFO - Received response: 
+2024-10-16 13:29:49,707 - pylabrobot - DEBUG - Received data: bytearray(b'A1PMTRid14er0')
+2024-10-16 13:29:49,707 - pylabrobot - INFO - Received response: A1PMTRid14er0
+2024-10-16 13:29:49,707 - pylabrobot - DEBUG - Reading thread stopped.
+2024-10-16 13:38:26,729 - pylabrobot - INFO - Sent command: A1PMTPid0015xp6399 6399 6399 6399 6399 6399 6399 6399yp3378 3288 3198 3108 3018 2928 2838 2748tm1 1 1 1 1 1 1 1tt1 1 1 1 1 1 1 1tp2265 2265 2265 2265 2265 2265 2265 2265tz2165 2165 2165 2165 2165 2165 2165 2165th2450 2450 2450 2450 2450 2450 2450 2450te2450 2450 2450 2450 2450 2450 2450 2450ba0 0 0 0 0 0 0 0td1 1 1 1 1 1 1 1
+2024-10-16 13:38:26,729 - pylabrobot - DEBUG - Starting reading thread...
+2024-10-16 13:38:29,732 - pylabrobot - DEBUG - Received data: bytearray(b'')
+2024-10-16 13:38:29,732 - pylabrobot - INFO - Received response: 
+2024-10-16 13:38:32,734 - pylabrobot - DEBUG - Received data: bytearray(b'')
+2024-10-16 13:38:32,734 - pylabrobot - INFO - Received response: 
+2024-10-16 13:38:34,160 - pylabrobot - DEBUG - Received data: bytearray(b'A1PMTPid15er0')
+2024-10-16 13:38:34,160 - pylabrobot - INFO - Received response: A1PMTPid15er0
+2024-10-16 13:38:34,160 - pylabrobot - DEBUG - Reading thread stopped.
+2024-10-16 13:38:34,661 - pylabrobot - INFO - Sent command: A1PMTRid0016xp7375 7375 7375 7375 7375 7375 7375 7375yp4167 3878 3589 3300 3011 2722 2433 2144tp1471 1471 1471 1471 1471 1471 1471 1471tz1371 1371 1371 1371 1371 1371 1371 1371th2450 2450 2450 2450 2450 2450 2450 2450te2450 2450 2450 2450 2450 2450 2450 2450tm1 1 1 1 1 1 1 1ts0td0 0 0 0 0 0 0 0
+2024-10-16 13:38:34,661 - pylabrobot - DEBUG - Starting reading thread...
+2024-10-16 13:38:37,899 - pylabrobot - DEBUG - Received data: bytearray(b'')
+2024-10-16 13:38:37,899 - pylabrobot - INFO - Received response: 
+2024-10-16 13:38:40,909 - pylabrobot - DEBUG - Received data: bytearray(b'')
+2024-10-16 13:38:40,910 - pylabrobot - INFO - Received response: 
+2024-10-16 13:38:42,342 - pylabrobot - DEBUG - Received data: bytearray(b'A1PMTRid16er0')
+2024-10-16 13:38:42,343 - pylabrobot - INFO - Received response: A1PMTRid16er0
+2024-10-16 13:38:42,343 - pylabrobot - DEBUG - Reading thread stopped.
+2024-10-16 13:40:20,892 - pylabrobot - INFO - Finding USB device...
+2024-10-16 13:40:20,973 - pylabrobot - INFO - Found USB device.
+2024-10-16 13:40:20,982 - pylabrobot - INFO - Found endpoints. 
+Write:
+       ENDPOINT 0x2: Bulk OUT ===============================
+       bLength          :    0x7 (7 bytes)
+       bDescriptorType  :    0x5 Endpoint
+       bEndpointAddress :    0x2 OUT
+       bmAttributes     :    0x2 Bulk
+       wMaxPacketSize   :   0x40 (64 bytes)
+       bInterval        :    0x0 
+Read:
+       ENDPOINT 0x81: Bulk IN ===============================
+       bLength          :    0x7 (7 bytes)
+       bDescriptorType  :    0x5 Endpoint
+       bEndpointAddress :   0x81 IN
+       bmAttributes     :    0x2 Bulk
+       wMaxPacketSize   :   0x40 (64 bytes)
+       bInterval        :    0x0
+2024-10-16 13:40:23,987 - pylabrobot - INFO - Sent command: A1PMQAid0001
+2024-10-16 13:40:23,988 - pylabrobot - DEBUG - Starting reading thread...
+2024-10-16 13:40:24,009 - pylabrobot - DEBUG - Received data: bytearray(b'A1PMQAid1er0rt0 0 0 0 0 0 0 0')
+2024-10-16 13:40:24,009 - pylabrobot - INFO - Received response: A1PMQAid1er0rt0 0 0 0 0 0 0 0
+2024-10-16 13:40:24,009 - pylabrobot - DEBUG - Reading thread stopped.
+2024-10-16 13:40:24,010 - pylabrobot - INFO - Sent command: A1AMQWid0002
+2024-10-16 13:40:24,010 - pylabrobot - DEBUG - Starting reading thread...
+2024-10-16 13:40:24,037 - pylabrobot - DEBUG - Received data: bytearray(b'A1AMQWid2er0qw1')
+2024-10-16 13:40:24,037 - pylabrobot - INFO - Received response: A1AMQWid2er0qw1
+2024-10-16 13:40:24,038 - pylabrobot - DEBUG - Reading thread stopped.
+2024-10-16 13:40:24,038 - pylabrobot - INFO - Sent command: A1PMQWid0003
+2024-10-16 13:40:24,038 - pylabrobot - DEBUG - Starting reading thread...
+2024-10-16 13:40:24,067 - pylabrobot - DEBUG - Received data: bytearray(b'A1PMQWid3er0qw1')
+2024-10-16 13:40:24,068 - pylabrobot - INFO - Received response: A1PMQWid3er0qw1
+2024-10-16 13:40:24,068 - pylabrobot - DEBUG - Reading thread stopped.
+2024-10-16 13:40:24,068 - pylabrobot - INFO - Sent command: I1AMQWid0004
+2024-10-16 13:40:24,069 - pylabrobot - DEBUG - Starting reading thread...
+2024-10-16 13:40:24,084 - pylabrobot - DEBUG - Received data: bytearray(b'I1AMQWid4er0qw1')
+2024-10-16 13:40:24,084 - pylabrobot - INFO - Received response: I1AMQWid4er0qw1
+2024-10-16 13:40:24,084 - pylabrobot - DEBUG - Reading thread stopped.
+2024-10-16 13:40:24,084 - pylabrobot - INFO - Sent command: A1HMQWid0005
+2024-10-16 13:40:24,084 - pylabrobot - DEBUG - Starting reading thread...
+2024-10-16 13:40:24,112 - pylabrobot - DEBUG - Received data: bytearray(b'A1HMQWid5er0qw1')
+2024-10-16 13:40:24,113 - pylabrobot - INFO - Received response: A1HMQWid5er0qw1
+2024-10-16 13:40:24,113 - pylabrobot - DEBUG - Reading thread stopped.
+2024-10-16 13:40:24,113 - pylabrobot - INFO - Sent command: A1RMQWid0006
+2024-10-16 13:40:24,113 - pylabrobot - DEBUG - Starting reading thread...
+2024-10-16 13:40:24,142 - pylabrobot - DEBUG - Received data: bytearray(b'A1RMQWid6er0qw1')
+2024-10-16 13:40:24,143 - pylabrobot - INFO - Received response: A1RMQWid6er0qw1
+2024-10-16 13:40:24,143 - pylabrobot - DEBUG - Reading thread stopped.
+2024-10-16 13:40:38,106 - pylabrobot - INFO - Sent command: A1AMTTid0007ti01tf1tl0871tv10650tg3tu0
+2024-10-16 13:40:38,106 - pylabrobot - DEBUG - Starting reading thread...
+2024-10-16 13:40:38,110 - pylabrobot - DEBUG - Received data: bytearray(b'A1AMTTid7er0')
+2024-10-16 13:40:38,111 - pylabrobot - INFO - Received response: A1AMTTid7er0
+2024-10-16 13:40:38,111 - pylabrobot - DEBUG - Reading thread stopped.
+2024-10-16 13:40:38,112 - pylabrobot - INFO - Sent command: A1PMTPid0008xp6399 6399 6399 6399 6399 6399 6399 6399yp3378 3288 3198 3108 3018 2928 2838 2748tm1 1 1 1 1 1 1 1tt1 1 1 1 1 1 1 1tp2265 2265 2265 2265 2265 2265 2265 2265tz2165 2165 2165 2165 2165 2165 2165 2165th2450 2450 2450 2450 2450 2450 2450 2450te2450 2450 2450 2450 2450 2450 2450 2450ba0 0 0 0 0 0 0 0td1 1 1 1 1 1 1 1
+2024-10-16 13:40:38,112 - pylabrobot - DEBUG - Starting reading thread...
+2024-10-16 13:40:41,478 - pylabrobot - DEBUG - Received data: bytearray(b'')
+2024-10-16 13:40:41,478 - pylabrobot - INFO - Received response: 
+2024-10-16 13:40:44,480 - pylabrobot - DEBUG - Received data: bytearray(b'')
+2024-10-16 13:40:44,480 - pylabrobot - INFO - Received response: 
+2024-10-16 13:40:44,921 - pylabrobot - DEBUG - Received data: bytearray(b'A1PMTPid8er99es"P175 P275 P375 P475 P575 P675 P775 P875"')
+2024-10-16 13:40:44,921 - pylabrobot - INFO - Received response: A1PMTPid8er99es"P175 P275 P375 P475 P575 P675 P775 P875"
+2024-10-16 13:40:44,921 - pylabrobot - DEBUG - Reading thread stopped.
+2024-10-16 13:40:52,397 - pylabrobot - INFO - Sent command: A1PMTPid0009xp6669 6669 6669 6669 6669 6669 6669 6669yp3378 3288 3198 3108 3018 2928 2838 2748tm1 1 1 1 1 1 1 1tt1 1 1 1 1 1 1 1tp2265 2265 2265 2265 2265 2265 2265 2265tz2165 2165 2165 2165 2165 2165 2165 2165th2450 2450 2450 2450 2450 2450 2450 2450te2450 2450 2450 2450 2450 2450 2450 2450ba0 0 0 0 0 0 0 0td1 1 1 1 1 1 1 1
+2024-10-16 13:40:52,398 - pylabrobot - DEBUG - Starting reading thread...
+2024-10-16 13:40:55,400 - pylabrobot - DEBUG - Received data: bytearray(b'')
+2024-10-16 13:40:55,400 - pylabrobot - INFO - Received response: 
+2024-10-16 13:40:58,402 - pylabrobot - DEBUG - Received data: bytearray(b'')
+2024-10-16 13:40:58,403 - pylabrobot - INFO - Received response: 
+2024-10-16 13:40:58,979 - pylabrobot - DEBUG - Received data: bytearray(b'A1PMTPid9er0')
+2024-10-16 13:40:58,979 - pylabrobot - INFO - Received response: A1PMTPid9er0
+2024-10-16 13:40:58,979 - pylabrobot - DEBUG - Reading thread stopped.
+2024-10-16 13:41:00,273 - pylabrobot - INFO - Sent command: A1PMTRid0010xp7375 7375 7375 7375 7375 7375 7375 7375yp4311 4022 3733 3444 3155 2866 2577 2288tp1471 1471 1471 1471 1471 1471 1471 1471tz1371 1371 1371 1371 1371 1371 1371 1371th2450 2450 2450 2450 2450 2450 2450 2450te2450 2450 2450 2450 2450 2450 2450 2450tm1 1 1 1 1 1 1 1ts0td0 0 0 0 0 0 0 0
+2024-10-16 13:41:00,287 - pylabrobot - DEBUG - Starting reading thread...
+2024-10-16 13:41:03,290 - pylabrobot - DEBUG - Received data: bytearray(b'')
+2024-10-16 13:41:03,290 - pylabrobot - INFO - Received response: 
+2024-10-16 13:41:06,292 - pylabrobot - DEBUG - Received data: bytearray(b'')
+2024-10-16 13:41:06,292 - pylabrobot - INFO - Received response: 
+2024-10-16 13:41:07,792 - pylabrobot - DEBUG - Received data: bytearray(b'A1PMTRid10er0')
+2024-10-16 13:41:07,792 - pylabrobot - INFO - Received response: A1PMTRid10er0
+2024-10-16 13:41:07,792 - pylabrobot - DEBUG - Reading thread stopped.
+2024-10-16 13:42:33,308 - pylabrobot - INFO - Finding USB device...
+2024-10-16 13:42:33,347 - pylabrobot - INFO - Found USB device.
+2024-10-16 13:42:33,347 - pylabrobot - INFO - Found endpoints. 
+Write:
+       ENDPOINT 0x2: Bulk OUT ===============================
+       bLength          :    0x7 (7 bytes)
+       bDescriptorType  :    0x5 Endpoint
+       bEndpointAddress :    0x2 OUT
+       bmAttributes     :    0x2 Bulk
+       wMaxPacketSize   :   0x40 (64 bytes)
+       bInterval        :    0x0 
+Read:
+       ENDPOINT 0x81: Bulk IN ===============================
+       bLength          :    0x7 (7 bytes)
+       bDescriptorType  :    0x5 Endpoint
+       bEndpointAddress :   0x81 IN
+       bmAttributes     :    0x2 Bulk
+       wMaxPacketSize   :   0x40 (64 bytes)
+       bInterval        :    0x0
+2024-10-16 13:42:36,351 - pylabrobot - INFO - Sent command: A1PMQAid0001
+2024-10-16 13:42:36,351 - pylabrobot - DEBUG - Starting reading thread...
+2024-10-16 13:42:36,373 - pylabrobot - DEBUG - Received data: bytearray(b'A1PMQAid1er0rt0 0 0 0 0 0 0 0')
+2024-10-16 13:42:36,373 - pylabrobot - INFO - Received response: A1PMQAid1er0rt0 0 0 0 0 0 0 0
+2024-10-16 13:42:36,373 - pylabrobot - DEBUG - Reading thread stopped.
+2024-10-16 13:42:36,374 - pylabrobot - INFO - Sent command: A1AMQWid0002
+2024-10-16 13:42:36,374 - pylabrobot - DEBUG - Starting reading thread...
+2024-10-16 13:42:36,400 - pylabrobot - DEBUG - Received data: bytearray(b'A1AMQWid2er0qw1')
+2024-10-16 13:42:36,401 - pylabrobot - INFO - Received response: A1AMQWid2er0qw1
+2024-10-16 13:42:36,401 - pylabrobot - DEBUG - Reading thread stopped.
+2024-10-16 13:42:36,401 - pylabrobot - INFO - Sent command: A1PMQWid0003
+2024-10-16 13:42:36,401 - pylabrobot - DEBUG - Starting reading thread...
+2024-10-16 13:42:36,431 - pylabrobot - DEBUG - Received data: bytearray(b'A1PMQWid3er0qw1')
+2024-10-16 13:42:36,431 - pylabrobot - INFO - Received response: A1PMQWid3er0qw1
+2024-10-16 13:42:36,431 - pylabrobot - DEBUG - Reading thread stopped.
+2024-10-16 13:42:36,431 - pylabrobot - INFO - Sent command: I1AMQWid0004
+2024-10-16 13:42:36,431 - pylabrobot - DEBUG - Starting reading thread...
+2024-10-16 13:42:36,447 - pylabrobot - DEBUG - Received data: bytearray(b'I1AMQWid4er0qw1')
+2024-10-16 13:42:36,447 - pylabrobot - INFO - Received response: I1AMQWid4er0qw1
+2024-10-16 13:42:36,447 - pylabrobot - DEBUG - Reading thread stopped.
+2024-10-16 13:42:36,448 - pylabrobot - INFO - Sent command: A1HMQWid0005
+2024-10-16 13:42:36,448 - pylabrobot - DEBUG - Starting reading thread...
+2024-10-16 13:42:36,476 - pylabrobot - DEBUG - Received data: bytearray(b'A1HMQWid5er0qw1')
+2024-10-16 13:42:36,476 - pylabrobot - INFO - Received response: A1HMQWid5er0qw1
+2024-10-16 13:42:36,476 - pylabrobot - DEBUG - Reading thread stopped.
+2024-10-16 13:42:36,477 - pylabrobot - INFO - Sent command: A1RMQWid0006
+2024-10-16 13:42:36,477 - pylabrobot - DEBUG - Starting reading thread...
+2024-10-16 13:42:36,506 - pylabrobot - DEBUG - Received data: bytearray(b'A1RMQWid6er0qw1')
+2024-10-16 13:42:36,506 - pylabrobot - INFO - Received response: A1RMQWid6er0qw1
+2024-10-16 13:42:36,506 - pylabrobot - DEBUG - Reading thread stopped.
+2024-10-16 13:42:50,248 - pylabrobot - INFO - Sent command: A1AMTTid0007ti01tf1tl0871tv10650tg3tu0
+2024-10-16 13:42:50,248 - pylabrobot - DEBUG - Starting reading thread...
+2024-10-16 13:42:50,253 - pylabrobot - DEBUG - Received data: bytearray(b'A1AMTTid7er0')
+2024-10-16 13:42:50,253 - pylabrobot - INFO - Received response: A1AMTTid7er0
+2024-10-16 13:42:50,253 - pylabrobot - DEBUG - Reading thread stopped.
+2024-10-16 13:42:50,254 - pylabrobot - INFO - Sent command: A1PMTPid0008xp6669 6669 6669 6669 6669 6669 6669 6669yp3378 3288 3198 3108 3018 2928 2838 2748tm1 1 1 1 1 1 1 1tt1 1 1 1 1 1 1 1tp2265 2265 2265 2265 2265 2265 2265 2265tz2165 2165 2165 2165 2165 2165 2165 2165th2450 2450 2450 2450 2450 2450 2450 2450te2450 2450 2450 2450 2450 2450 2450 2450ba0 0 0 0 0 0 0 0td1 1 1 1 1 1 1 1
+2024-10-16 13:42:50,254 - pylabrobot - DEBUG - Starting reading thread...
+2024-10-16 13:42:53,256 - pylabrobot - DEBUG - Received data: bytearray(b'')
+2024-10-16 13:42:53,257 - pylabrobot - INFO - Received response: 
+2024-10-16 13:42:56,259 - pylabrobot - DEBUG - Received data: bytearray(b'')
+2024-10-16 13:42:56,259 - pylabrobot - INFO - Received response: 
+2024-10-16 13:42:57,432 - pylabrobot - DEBUG - Received data: bytearray(b'A1PMTPid8er0')
+2024-10-16 13:42:57,432 - pylabrobot - INFO - Received response: A1PMTPid8er0
+2024-10-16 13:42:57,432 - pylabrobot - DEBUG - Reading thread stopped.
+2024-10-16 13:42:59,244 - pylabrobot - INFO - Sent command: A1PMTRid0009xp7375 7375 7375 7375 7375 7375 7375 7375yp3811 3522 3233 2944 2655 2366 2077 1788tp1471 1471 1471 1471 1471 1471 1471 1471tz1371 1371 1371 1371 1371 1371 1371 1371th2450 2450 2450 2450 2450 2450 2450 2450te2450 2450 2450 2450 2450 2450 2450 2450tm1 1 1 1 1 1 1 1ts0td0 0 0 0 0 0 0 0
+2024-10-16 13:42:59,244 - pylabrobot - DEBUG - Starting reading thread...
+2024-10-16 13:43:02,246 - pylabrobot - DEBUG - Received data: bytearray(b'')
+2024-10-16 13:43:02,247 - pylabrobot - INFO - Received response: 
+2024-10-16 13:43:05,249 - pylabrobot - DEBUG - Received data: bytearray(b'')
+2024-10-16 13:43:05,249 - pylabrobot - INFO - Received response: 
+2024-10-16 13:43:06,665 - pylabrobot - DEBUG - Received data: bytearray(b'A1PMTRid9er0')
+2024-10-16 13:43:06,665 - pylabrobot - INFO - Received response: A1PMTRid9er0
+2024-10-16 13:43:06,665 - pylabrobot - DEBUG - Reading thread stopped.
+2024-10-16 13:44:43,293 - pylabrobot - INFO - Finding USB device...
+2024-10-16 13:44:43,356 - pylabrobot - INFO - Found USB device.
+2024-10-16 13:44:43,357 - pylabrobot - INFO - Found endpoints. 
+Write:
+       ENDPOINT 0x2: Bulk OUT ===============================
+       bLength          :    0x7 (7 bytes)
+       bDescriptorType  :    0x5 Endpoint
+       bEndpointAddress :    0x2 OUT
+       bmAttributes     :    0x2 Bulk
+       wMaxPacketSize   :   0x40 (64 bytes)
+       bInterval        :    0x0 
+Read:
+       ENDPOINT 0x81: Bulk IN ===============================
+       bLength          :    0x7 (7 bytes)
+       bDescriptorType  :    0x5 Endpoint
+       bEndpointAddress :   0x81 IN
+       bmAttributes     :    0x2 Bulk
+       wMaxPacketSize   :   0x40 (64 bytes)
+       bInterval        :    0x0
+2024-10-16 13:44:46,729 - pylabrobot - INFO - Sent command: A1PMQAid0001
+2024-10-16 13:44:46,730 - pylabrobot - DEBUG - Starting reading thread...
+2024-10-16 13:44:46,751 - pylabrobot - DEBUG - Received data: bytearray(b'A1PMQAid1er0rt0 0 0 0 0 0 0 0')
+2024-10-16 13:44:46,751 - pylabrobot - INFO - Received response: A1PMQAid1er0rt0 0 0 0 0 0 0 0
+2024-10-16 13:44:46,751 - pylabrobot - DEBUG - Reading thread stopped.
+2024-10-16 13:44:46,752 - pylabrobot - INFO - Sent command: A1AMQWid0002
+2024-10-16 13:44:46,752 - pylabrobot - DEBUG - Starting reading thread...
+2024-10-16 13:44:46,779 - pylabrobot - DEBUG - Received data: bytearray(b'A1AMQWid2er0qw1')
+2024-10-16 13:44:46,779 - pylabrobot - INFO - Received response: A1AMQWid2er0qw1
+2024-10-16 13:44:46,779 - pylabrobot - DEBUG - Reading thread stopped.
+2024-10-16 13:44:46,780 - pylabrobot - INFO - Sent command: A1PMQWid0003
+2024-10-16 13:44:46,780 - pylabrobot - DEBUG - Starting reading thread...
+2024-10-16 13:44:46,809 - pylabrobot - DEBUG - Received data: bytearray(b'A1PMQWid3er0qw1')
+2024-10-16 13:44:46,809 - pylabrobot - INFO - Received response: A1PMQWid3er0qw1
+2024-10-16 13:44:46,809 - pylabrobot - DEBUG - Reading thread stopped.
+2024-10-16 13:44:46,810 - pylabrobot - INFO - Sent command: I1AMQWid0004
+2024-10-16 13:44:46,811 - pylabrobot - DEBUG - Starting reading thread...
+2024-10-16 13:44:46,826 - pylabrobot - DEBUG - Received data: bytearray(b'I1AMQWid4er0qw1')
+2024-10-16 13:44:46,826 - pylabrobot - INFO - Received response: I1AMQWid4er0qw1
+2024-10-16 13:44:46,826 - pylabrobot - DEBUG - Reading thread stopped.
+2024-10-16 13:44:46,827 - pylabrobot - INFO - Sent command: A1HMQWid0005
+2024-10-16 13:44:46,828 - pylabrobot - DEBUG - Starting reading thread...
+2024-10-16 13:44:46,859 - pylabrobot - DEBUG - Received data: bytearray(b'A1HMQWid5er0qw1')
+2024-10-16 13:44:46,859 - pylabrobot - INFO - Received response: A1HMQWid5er0qw1
+2024-10-16 13:44:46,859 - pylabrobot - DEBUG - Reading thread stopped.
+2024-10-16 13:44:46,860 - pylabrobot - INFO - Sent command: A1RMQWid0006
+2024-10-16 13:44:46,860 - pylabrobot - DEBUG - Starting reading thread...
+2024-10-16 13:44:46,889 - pylabrobot - DEBUG - Received data: bytearray(b'A1RMQWid6er0qw1')
+2024-10-16 13:44:46,889 - pylabrobot - INFO - Received response: A1RMQWid6er0qw1
+2024-10-16 13:44:46,889 - pylabrobot - DEBUG - Reading thread stopped.
+2024-10-16 13:44:58,217 - pylabrobot - INFO - Sent command: A1AMTTid0007ti01tf1tl0871tv10650tg3tu0
+2024-10-16 13:44:58,218 - pylabrobot - DEBUG - Starting reading thread...
+2024-10-16 13:44:58,222 - pylabrobot - DEBUG - Received data: bytearray(b'A1AMTTid7er0')
+2024-10-16 13:44:58,222 - pylabrobot - INFO - Received response: A1AMTTid7er0
+2024-10-16 13:44:58,222 - pylabrobot - DEBUG - Reading thread stopped.
+2024-10-16 13:44:58,223 - pylabrobot - INFO - Sent command: A1PMTPid0008xp6669 6669 6669 6669 6669 6669 6669 6669yp3378 3288 3198 3108 3018 2928 2838 2748tm1 1 1 1 1 1 1 1tt1 1 1 1 1 1 1 1tp2265 2265 2265 2265 2265 2265 2265 2265tz2165 2165 2165 2165 2165 2165 2165 2165th2450 2450 2450 2450 2450 2450 2450 2450te2450 2450 2450 2450 2450 2450 2450 2450ba0 0 0 0 0 0 0 0td1 1 1 1 1 1 1 1
+2024-10-16 13:44:58,223 - pylabrobot - DEBUG - Starting reading thread...
+2024-10-16 13:45:01,226 - pylabrobot - DEBUG - Received data: bytearray(b'')
+2024-10-16 13:45:01,226 - pylabrobot - INFO - Received response: 
+2024-10-16 13:45:04,229 - pylabrobot - DEBUG - Received data: bytearray(b'')
+2024-10-16 13:45:04,229 - pylabrobot - INFO - Received response: 
+2024-10-16 13:45:05,390 - pylabrobot - DEBUG - Received data: bytearray(b'A1PMTPid8er0')
+2024-10-16 13:45:05,390 - pylabrobot - INFO - Received response: A1PMTPid8er0
+2024-10-16 13:45:05,390 - pylabrobot - DEBUG - Reading thread stopped.
+2024-10-16 13:45:07,326 - pylabrobot - INFO - Sent command: A1PMTRid0009xp7375 7375 7375 7375 7375 7375 7375 7375yp3911 3622 3333 3044 2755 2466 2177 1888tp1471 1471 1471 1471 1471 1471 1471 1471tz1371 1371 1371 1371 1371 1371 1371 1371th2450 2450 2450 2450 2450 2450 2450 2450te2450 2450 2450 2450 2450 2450 2450 2450tm1 1 1 1 1 1 1 1ts0td0 0 0 0 0 0 0 0
+2024-10-16 13:45:07,326 - pylabrobot - DEBUG - Starting reading thread...
+2024-10-16 13:45:10,542 - pylabrobot - DEBUG - Received data: bytearray(b'')
+2024-10-16 13:45:10,542 - pylabrobot - INFO - Received response: 
+2024-10-16 13:45:13,545 - pylabrobot - DEBUG - Received data: bytearray(b'')
+2024-10-16 13:45:13,545 - pylabrobot - INFO - Received response: 
+2024-10-16 13:45:14,747 - pylabrobot - DEBUG - Received data: bytearray(b'A1PMTRid9er0')
+2024-10-16 13:45:14,747 - pylabrobot - INFO - Received response: A1PMTRid9er0
+2024-10-16 13:45:14,747 - pylabrobot - DEBUG - Reading thread stopped.
+2024-10-16 13:47:04,651 - pylabrobot - INFO - Finding USB device...
+2024-10-16 13:47:04,699 - pylabrobot - INFO - Found USB device.
+2024-10-16 13:47:04,699 - pylabrobot - INFO - Found endpoints. 
+Write:
+       ENDPOINT 0x2: Bulk OUT ===============================
+       bLength          :    0x7 (7 bytes)
+       bDescriptorType  :    0x5 Endpoint
+       bEndpointAddress :    0x2 OUT
+       bmAttributes     :    0x2 Bulk
+       wMaxPacketSize   :   0x40 (64 bytes)
+       bInterval        :    0x0 
+Read:
+       ENDPOINT 0x81: Bulk IN ===============================
+       bLength          :    0x7 (7 bytes)
+       bDescriptorType  :    0x5 Endpoint
+       bEndpointAddress :   0x81 IN
+       bmAttributes     :    0x2 Bulk
+       wMaxPacketSize   :   0x40 (64 bytes)
+       bInterval        :    0x0
+2024-10-16 13:47:08,040 - pylabrobot - INFO - Sent command: A1PMQAid0001
+2024-10-16 13:47:08,040 - pylabrobot - DEBUG - Starting reading thread...
+2024-10-16 13:47:08,061 - pylabrobot - DEBUG - Received data: bytearray(b'A1PMQAid1er0rt0 0 0 0 0 0 0 0')
+2024-10-16 13:47:08,061 - pylabrobot - INFO - Received response: A1PMQAid1er0rt0 0 0 0 0 0 0 0
+2024-10-16 13:47:08,062 - pylabrobot - DEBUG - Reading thread stopped.
+2024-10-16 13:47:08,062 - pylabrobot - INFO - Sent command: A1AMQWid0002
+2024-10-16 13:47:08,063 - pylabrobot - DEBUG - Starting reading thread...
+2024-10-16 13:47:08,093 - pylabrobot - DEBUG - Received data: bytearray(b'A1AMQWid2er0qw1')
+2024-10-16 13:47:08,093 - pylabrobot - INFO - Received response: A1AMQWid2er0qw1
+2024-10-16 13:47:08,093 - pylabrobot - DEBUG - Reading thread stopped.
+2024-10-16 13:47:08,094 - pylabrobot - INFO - Sent command: A1PMQWid0003
+2024-10-16 13:47:08,095 - pylabrobot - DEBUG - Starting reading thread...
+2024-10-16 13:47:08,123 - pylabrobot - DEBUG - Received data: bytearray(b'A1PMQWid3er0qw1')
+2024-10-16 13:47:08,123 - pylabrobot - INFO - Received response: A1PMQWid3er0qw1
+2024-10-16 13:47:08,123 - pylabrobot - DEBUG - Reading thread stopped.
+2024-10-16 13:47:08,124 - pylabrobot - INFO - Sent command: I1AMQWid0004
+2024-10-16 13:47:08,125 - pylabrobot - DEBUG - Starting reading thread...
+2024-10-16 13:47:08,140 - pylabrobot - DEBUG - Received data: bytearray(b'I1AMQWid4er0qw1')
+2024-10-16 13:47:08,140 - pylabrobot - INFO - Received response: I1AMQWid4er0qw1
+2024-10-16 13:47:08,141 - pylabrobot - DEBUG - Reading thread stopped.
+2024-10-16 13:47:08,142 - pylabrobot - INFO - Sent command: A1HMQWid0005
+2024-10-16 13:47:08,142 - pylabrobot - DEBUG - Starting reading thread...
+2024-10-16 13:47:08,173 - pylabrobot - DEBUG - Received data: bytearray(b'A1HMQWid5er0qw1')
+2024-10-16 13:47:08,173 - pylabrobot - INFO - Received response: A1HMQWid5er0qw1
+2024-10-16 13:47:08,173 - pylabrobot - DEBUG - Reading thread stopped.
+2024-10-16 13:47:08,174 - pylabrobot - INFO - Sent command: A1RMQWid0006
+2024-10-16 13:47:08,174 - pylabrobot - DEBUG - Starting reading thread...
+2024-10-16 13:47:08,203 - pylabrobot - DEBUG - Received data: bytearray(b'A1RMQWid6er0qw1')
+2024-10-16 13:47:08,203 - pylabrobot - INFO - Received response: A1RMQWid6er0qw1
+2024-10-16 13:47:08,203 - pylabrobot - DEBUG - Reading thread stopped.
+2024-10-16 13:47:23,415 - pylabrobot - INFO - Sent command: A1AMTTid0007ti01tf1tl0871tv10650tg3tu0
+2024-10-16 13:47:23,415 - pylabrobot - DEBUG - Starting reading thread...
+2024-10-16 13:47:23,419 - pylabrobot - DEBUG - Received data: bytearray(b'A1AMTTid7er0')
+2024-10-16 13:47:23,419 - pylabrobot - INFO - Received response: A1AMTTid7er0
+2024-10-16 13:47:23,419 - pylabrobot - DEBUG - Reading thread stopped.
+2024-10-16 13:47:23,420 - pylabrobot - INFO - Sent command: A1PMTPid0008xp6669 6669 6669 6669 6669 6669 6669 6669yp3378 3288 3198 3108 3018 2928 2838 2748tm1 1 1 1 1 1 1 1tt1 1 1 1 1 1 1 1tp2265 2265 2265 2265 2265 2265 2265 2265tz2165 2165 2165 2165 2165 2165 2165 2165th2450 2450 2450 2450 2450 2450 2450 2450te2450 2450 2450 2450 2450 2450 2450 2450ba0 0 0 0 0 0 0 0td1 1 1 1 1 1 1 1
+2024-10-16 13:47:23,421 - pylabrobot - DEBUG - Starting reading thread...
+2024-10-16 13:47:26,423 - pylabrobot - DEBUG - Received data: bytearray(b'')
+2024-10-16 13:47:26,423 - pylabrobot - INFO - Received response: 
+2024-10-16 13:47:29,426 - pylabrobot - DEBUG - Received data: bytearray(b'')
+2024-10-16 13:47:29,426 - pylabrobot - INFO - Received response: 
+2024-10-16 13:47:30,644 - pylabrobot - DEBUG - Received data: bytearray(b'A1PMTPid8er0')
+2024-10-16 13:47:30,644 - pylabrobot - INFO - Received response: A1PMTPid8er0
+2024-10-16 13:47:30,644 - pylabrobot - DEBUG - Reading thread stopped.
+2024-10-16 13:47:31,954 - pylabrobot - INFO - Sent command: A1PMTRid0009xp6875 6875 6875 6875 6875 6875 6875 6875yp3911 3622 3333 3044 2755 2466 2177 1888tp950 950 950 950 950 950 950 950tz850 850 850 850 850 850 850 850th2450 2450 2450 2450 2450 2450 2450 2450te2450 2450 2450 2450 2450 2450 2450 2450tm1 1 1 1 1 1 1 1ts0td0 0 0 0 0 0 0 0
+2024-10-16 13:47:31,955 - pylabrobot - DEBUG - Starting reading thread...
+2024-10-16 13:47:34,957 - pylabrobot - DEBUG - Received data: bytearray(b'')
+2024-10-16 13:47:34,958 - pylabrobot - INFO - Received response: 
+2024-10-16 13:47:35,901 - pylabrobot - DEBUG - Received data: bytearray(b'A1PMTRid9er99es"P162 P262 P362 P462 P562 P662 P762 P862"')
+2024-10-16 13:47:35,901 - pylabrobot - INFO - Received response: A1PMTRid9er99es"P162 P262 P362 P462 P562 P662 P762 P862"
+2024-10-16 13:47:35,902 - pylabrobot - DEBUG - Reading thread stopped.
+2024-10-16 13:47:53,419 - pylabrobot - INFO - Sent command: A1PMTRid0010xp6669 6669 6669 6669 6669 6669 6669 6669yp3378 3288 3198 3108 3018 2928 2838 2748tp1414 1414 1414 1414 1414 1414 1414 1414tz1314 1314 1314 1314 1314 1314 1314 1314th2450 2450 2450 2450 2450 2450 2450 2450te2450 2450 2450 2450 2450 2450 2450 2450tm1 1 1 1 1 1 1 1ts0td0 0 0 0 0 0 0 0
+2024-10-16 13:47:53,420 - pylabrobot - DEBUG - Starting reading thread...
+2024-10-16 13:47:56,423 - pylabrobot - DEBUG - Received data: bytearray(b'')
+2024-10-16 13:47:56,423 - pylabrobot - INFO - Received response: 
+2024-10-16 13:47:59,425 - pylabrobot - DEBUG - Received data: bytearray(b'')
+2024-10-16 13:47:59,426 - pylabrobot - INFO - Received response: 
+2024-10-16 13:48:00,261 - pylabrobot - DEBUG - Received data: bytearray(b'A1PMTRid10er0')
+2024-10-16 13:48:00,262 - pylabrobot - INFO - Received response: A1PMTRid10er0
+2024-10-16 13:48:00,262 - pylabrobot - DEBUG - Reading thread stopped.
+2024-10-16 13:48:29,957 - pylabrobot - INFO - Finding USB device...
+2024-10-16 13:48:29,997 - pylabrobot - INFO - Found USB device.
+2024-10-16 13:48:29,997 - pylabrobot - INFO - Found endpoints. 
+Write:
+       ENDPOINT 0x2: Bulk OUT ===============================
+       bLength          :    0x7 (7 bytes)
+       bDescriptorType  :    0x5 Endpoint
+       bEndpointAddress :    0x2 OUT
+       bmAttributes     :    0x2 Bulk
+       wMaxPacketSize   :   0x40 (64 bytes)
+       bInterval        :    0x0 
+Read:
+       ENDPOINT 0x81: Bulk IN ===============================
+       bLength          :    0x7 (7 bytes)
+       bDescriptorType  :    0x5 Endpoint
+       bEndpointAddress :   0x81 IN
+       bmAttributes     :    0x2 Bulk
+       wMaxPacketSize   :   0x40 (64 bytes)
+       bInterval        :    0x0
+2024-10-16 13:48:33,002 - pylabrobot - INFO - Sent command: A1PMQAid0001
+2024-10-16 13:48:33,002 - pylabrobot - DEBUG - Starting reading thread...
+2024-10-16 13:48:33,023 - pylabrobot - DEBUG - Received data: bytearray(b'A1PMQAid1er0rt0 0 0 0 0 0 0 0')
+2024-10-16 13:48:33,023 - pylabrobot - INFO - Received response: A1PMQAid1er0rt0 0 0 0 0 0 0 0
+2024-10-16 13:48:33,023 - pylabrobot - DEBUG - Reading thread stopped.
+2024-10-16 13:48:33,024 - pylabrobot - INFO - Sent command: A1AMQWid0002
+2024-10-16 13:48:33,024 - pylabrobot - DEBUG - Starting reading thread...
+2024-10-16 13:48:33,055 - pylabrobot - DEBUG - Received data: bytearray(b'A1AMQWid2er0qw1')
+2024-10-16 13:48:33,055 - pylabrobot - INFO - Received response: A1AMQWid2er0qw1
+2024-10-16 13:48:33,055 - pylabrobot - DEBUG - Reading thread stopped.
+2024-10-16 13:48:33,055 - pylabrobot - INFO - Sent command: A1PMQWid0003
+2024-10-16 13:48:33,056 - pylabrobot - DEBUG - Starting reading thread...
+2024-10-16 13:48:33,085 - pylabrobot - DEBUG - Received data: bytearray(b'A1PMQWid3er0qw1')
+2024-10-16 13:48:33,085 - pylabrobot - INFO - Received response: A1PMQWid3er0qw1
+2024-10-16 13:48:33,085 - pylabrobot - DEBUG - Reading thread stopped.
+2024-10-16 13:48:33,086 - pylabrobot - INFO - Sent command: I1AMQWid0004
+2024-10-16 13:48:33,086 - pylabrobot - DEBUG - Starting reading thread...
+2024-10-16 13:48:33,101 - pylabrobot - DEBUG - Received data: bytearray(b'I1AMQWid4er0qw1')
+2024-10-16 13:48:33,101 - pylabrobot - INFO - Received response: I1AMQWid4er0qw1
+2024-10-16 13:48:33,101 - pylabrobot - DEBUG - Reading thread stopped.
+2024-10-16 13:48:33,101 - pylabrobot - INFO - Sent command: A1HMQWid0005
+2024-10-16 13:48:33,102 - pylabrobot - DEBUG - Starting reading thread...
+2024-10-16 13:48:33,130 - pylabrobot - DEBUG - Received data: bytearray(b'A1HMQWid5er0qw1')
+2024-10-16 13:48:33,130 - pylabrobot - INFO - Received response: A1HMQWid5er0qw1
+2024-10-16 13:48:33,130 - pylabrobot - DEBUG - Reading thread stopped.
+2024-10-16 13:48:33,131 - pylabrobot - INFO - Sent command: A1RMQWid0006
+2024-10-16 13:48:33,131 - pylabrobot - DEBUG - Starting reading thread...
+2024-10-16 13:48:33,160 - pylabrobot - DEBUG - Received data: bytearray(b'A1RMQWid6er0qw1')
+2024-10-16 13:48:33,160 - pylabrobot - INFO - Received response: A1RMQWid6er0qw1
+2024-10-16 13:48:33,160 - pylabrobot - DEBUG - Reading thread stopped.
+2024-10-16 13:48:43,540 - pylabrobot - INFO - Sent command: A1AMTTid0007ti01tf1tl0871tv10650tg3tu0
+2024-10-16 13:48:43,540 - pylabrobot - DEBUG - Starting reading thread...
+2024-10-16 13:48:43,544 - pylabrobot - DEBUG - Received data: bytearray(b'A1AMTTid7er0')
+2024-10-16 13:48:43,544 - pylabrobot - INFO - Received response: A1AMTTid7er0
+2024-10-16 13:48:43,544 - pylabrobot - DEBUG - Reading thread stopped.
+2024-10-16 13:48:43,545 - pylabrobot - INFO - Sent command: A1PMTPid0008xp6669 6669 6669 6669 6669 6669 6669 6669yp3378 3288 3198 3108 3018 2928 2838 2748tm1 1 1 1 1 1 1 1tt1 1 1 1 1 1 1 1tp2265 2265 2265 2265 2265 2265 2265 2265tz2165 2165 2165 2165 2165 2165 2165 2165th2450 2450 2450 2450 2450 2450 2450 2450te2450 2450 2450 2450 2450 2450 2450 2450ba0 0 0 0 0 0 0 0td1 1 1 1 1 1 1 1
+2024-10-16 13:48:43,546 - pylabrobot - DEBUG - Starting reading thread...
+2024-10-16 13:48:46,548 - pylabrobot - DEBUG - Received data: bytearray(b'')
+2024-10-16 13:48:46,548 - pylabrobot - INFO - Received response: 
+2024-10-16 13:48:49,296 - pylabrobot - DEBUG - Received data: bytearray(b'A1PMTPid8er0')
+2024-10-16 13:48:49,296 - pylabrobot - INFO - Received response: A1PMTPid8er0
+2024-10-16 13:48:49,296 - pylabrobot - DEBUG - Reading thread stopped.
+2024-10-16 13:48:50,309 - pylabrobot - INFO - Sent command: A1PMTRid0009xp7075 7075 7075 7075 7075 7075 7075 7075yp3911 3622 3333 3044 2755 2466 2177 1888tp900 900 900 900 900 900 900 900tz800 800 800 800 800 800 800 800th2450 2450 2450 2450 2450 2450 2450 2450te2450 2450 2450 2450 2450 2450 2450 2450tm1 1 1 1 1 1 1 1ts0td0 0 0 0 0 0 0 0
+2024-10-16 13:48:50,309 - pylabrobot - DEBUG - Starting reading thread...
+2024-10-16 13:48:53,312 - pylabrobot - DEBUG - Received data: bytearray(b'')
+2024-10-16 13:48:53,312 - pylabrobot - INFO - Received response: 
+2024-10-16 13:48:54,051 - pylabrobot - DEBUG - Received data: bytearray(b'A1PMTRid9er99es"P162 P262 P362 P462 P562 P662 P762 P862"')
+2024-10-16 13:48:54,051 - pylabrobot - INFO - Received response: A1PMTRid9er99es"P162 P262 P362 P462 P562 P662 P762 P862"
+2024-10-16 13:48:54,051 - pylabrobot - DEBUG - Reading thread stopped.
+2024-10-16 13:49:06,676 - pylabrobot - INFO - Sent command: A1PMTRid0010xp6669 6669 6669 6669 6669 6669 6669 6669yp3378 3288 3198 3108 3018 2928 2838 2748tp1414 1414 1414 1414 1414 1414 1414 1414tz1314 1314 1314 1314 1314 1314 1314 1314th2450 2450 2450 2450 2450 2450 2450 2450te2450 2450 2450 2450 2450 2450 2450 2450tm1 1 1 1 1 1 1 1ts0td0 0 0 0 0 0 0 0
+2024-10-16 13:49:06,676 - pylabrobot - DEBUG - Starting reading thread...
+2024-10-16 13:49:09,678 - pylabrobot - DEBUG - Received data: bytearray(b'')
+2024-10-16 13:49:09,678 - pylabrobot - INFO - Received response: 
+2024-10-16 13:49:12,681 - pylabrobot - DEBUG - Received data: bytearray(b'')
+2024-10-16 13:49:12,681 - pylabrobot - INFO - Received response: 
+2024-10-16 13:49:13,823 - pylabrobot - DEBUG - Received data: bytearray(b'A1PMTRid10er0')
+2024-10-16 13:49:13,823 - pylabrobot - INFO - Received response: A1PMTRid10er0
+2024-10-16 13:49:13,823 - pylabrobot - DEBUG - Reading thread stopped.
+2024-10-16 13:49:43,955 - pylabrobot - INFO - Finding USB device...
+2024-10-16 13:49:43,956 - pylabrobot - INFO - Found USB device.
+2024-10-16 13:49:43,957 - pylabrobot - INFO - Found endpoints. 
+Write:
+       ENDPOINT 0x2: Bulk OUT ===============================
+       bLength          :    0x7 (7 bytes)
+       bDescriptorType  :    0x5 Endpoint
+       bEndpointAddress :    0x2 OUT
+       bmAttributes     :    0x2 Bulk
+       wMaxPacketSize   :   0x40 (64 bytes)
+       bInterval        :    0x0 
+Read:
+       ENDPOINT 0x81: Bulk IN ===============================
+       bLength          :    0x7 (7 bytes)
+       bDescriptorType  :    0x5 Endpoint
+       bEndpointAddress :   0x81 IN
+       bmAttributes     :    0x2 Bulk
+       wMaxPacketSize   :   0x40 (64 bytes)
+       bInterval        :    0x0
+2024-10-16 13:49:50,938 - pylabrobot - INFO - Finding USB device...
+2024-10-16 13:49:50,979 - pylabrobot - INFO - Found USB device.
+2024-10-16 13:49:50,981 - pylabrobot - INFO - Found endpoints. 
+Write:
+       ENDPOINT 0x2: Bulk OUT ===============================
+       bLength          :    0x7 (7 bytes)
+       bDescriptorType  :    0x5 Endpoint
+       bEndpointAddress :    0x2 OUT
+       bmAttributes     :    0x2 Bulk
+       wMaxPacketSize   :   0x40 (64 bytes)
+       bInterval        :    0x0 
+Read:
+       ENDPOINT 0x81: Bulk IN ===============================
+       bLength          :    0x7 (7 bytes)
+       bDescriptorType  :    0x5 Endpoint
+       bEndpointAddress :   0x81 IN
+       bmAttributes     :    0x2 Bulk
+       wMaxPacketSize   :   0x40 (64 bytes)
+       bInterval        :    0x0
+2024-10-16 13:49:53,986 - pylabrobot - INFO - Sent command: A1PMQAid0001
+2024-10-16 13:49:53,986 - pylabrobot - DEBUG - Starting reading thread...
+2024-10-16 13:49:54,008 - pylabrobot - DEBUG - Received data: bytearray(b'A1PMQAid1er0rt0 0 0 0 0 0 0 0')
+2024-10-16 13:49:54,008 - pylabrobot - INFO - Received response: A1PMQAid1er0rt0 0 0 0 0 0 0 0
+2024-10-16 13:49:54,008 - pylabrobot - DEBUG - Reading thread stopped.
+2024-10-16 13:49:54,009 - pylabrobot - INFO - Sent command: A1AMQWid0002
+2024-10-16 13:49:54,009 - pylabrobot - DEBUG - Starting reading thread...
+2024-10-16 13:49:54,042 - pylabrobot - DEBUG - Received data: bytearray(b'A1AMQWid2er0qw1')
+2024-10-16 13:49:54,043 - pylabrobot - INFO - Received response: A1AMQWid2er0qw1
+2024-10-16 13:49:54,043 - pylabrobot - DEBUG - Reading thread stopped.
+2024-10-16 13:49:54,044 - pylabrobot - INFO - Sent command: A1PMQWid0003
+2024-10-16 13:49:54,044 - pylabrobot - DEBUG - Starting reading thread...
+2024-10-16 13:49:54,072 - pylabrobot - DEBUG - Received data: bytearray(b'A1PMQWid3er0qw1')
+2024-10-16 13:49:54,072 - pylabrobot - INFO - Received response: A1PMQWid3er0qw1
+2024-10-16 13:49:54,072 - pylabrobot - DEBUG - Reading thread stopped.
+2024-10-16 13:49:54,073 - pylabrobot - INFO - Sent command: I1AMQWid0004
+2024-10-16 13:49:54,073 - pylabrobot - DEBUG - Starting reading thread...
+2024-10-16 13:49:54,089 - pylabrobot - DEBUG - Received data: bytearray(b'I1AMQWid4er0qw1')
+2024-10-16 13:49:54,089 - pylabrobot - INFO - Received response: I1AMQWid4er0qw1
+2024-10-16 13:49:54,089 - pylabrobot - DEBUG - Reading thread stopped.
+2024-10-16 13:49:54,089 - pylabrobot - INFO - Sent command: A1HMQWid0005
+2024-10-16 13:49:54,090 - pylabrobot - DEBUG - Starting reading thread...
+2024-10-16 13:49:54,122 - pylabrobot - DEBUG - Received data: bytearray(b'A1HMQWid5er0qw1')
+2024-10-16 13:49:54,122 - pylabrobot - INFO - Received response: A1HMQWid5er0qw1
+2024-10-16 13:49:54,123 - pylabrobot - DEBUG - Reading thread stopped.
+2024-10-16 13:49:54,123 - pylabrobot - INFO - Sent command: A1RMQWid0006
+2024-10-16 13:49:54,124 - pylabrobot - DEBUG - Starting reading thread...
+2024-10-16 13:49:54,152 - pylabrobot - DEBUG - Received data: bytearray(b'A1RMQWid6er0qw1')
+2024-10-16 13:49:54,152 - pylabrobot - INFO - Received response: A1RMQWid6er0qw1
+2024-10-16 13:49:54,153 - pylabrobot - DEBUG - Reading thread stopped.
+2024-10-16 13:50:03,305 - pylabrobot - INFO - Sent command: A1AMTTid0007ti01tf1tl0871tv10650tg3tu0
+2024-10-16 13:50:03,306 - pylabrobot - DEBUG - Starting reading thread...
+2024-10-16 13:50:03,309 - pylabrobot - DEBUG - Received data: bytearray(b'A1AMTTid7er0')
+2024-10-16 13:50:03,309 - pylabrobot - INFO - Received response: A1AMTTid7er0
+2024-10-16 13:50:03,309 - pylabrobot - DEBUG - Reading thread stopped.
+2024-10-16 13:50:03,311 - pylabrobot - INFO - Sent command: A1PMTPid0008xp6669 6669 6669 6669 6669 6669 6669 6669yp3378 3288 3198 3108 3018 2928 2838 2748tm1 1 1 1 1 1 1 1tt1 1 1 1 1 1 1 1tp2265 2265 2265 2265 2265 2265 2265 2265tz2165 2165 2165 2165 2165 2165 2165 2165th2450 2450 2450 2450 2450 2450 2450 2450te2450 2450 2450 2450 2450 2450 2450 2450ba0 0 0 0 0 0 0 0td1 1 1 1 1 1 1 1
+2024-10-16 13:50:03,311 - pylabrobot - DEBUG - Starting reading thread...
+2024-10-16 13:50:06,675 - pylabrobot - DEBUG - Received data: bytearray(b'')
+2024-10-16 13:50:06,675 - pylabrobot - INFO - Received response: 
+2024-10-16 13:50:09,072 - pylabrobot - DEBUG - Received data: bytearray(b'A1PMTPid8er0')
+2024-10-16 13:50:09,072 - pylabrobot - INFO - Received response: A1PMTPid8er0
+2024-10-16 13:50:09,073 - pylabrobot - DEBUG - Reading thread stopped.
+2024-10-16 13:50:09,441 - pylabrobot - INFO - Sent command: A1PMTRid0009xp7075 7075 7075 7075 7075 7075 7075 7075yp3911 3622 3333 3044 2755 2466 2177 1888tp200 200 200 200 200 200 200 200tz100 100 100 100 100 100 100 100th2450 2450 2450 2450 2450 2450 2450 2450te2450 2450 2450 2450 2450 2450 2450 2450tm1 1 1 1 1 1 1 1ts0td0 0 0 0 0 0 0 0
+2024-10-16 13:50:09,442 - pylabrobot - DEBUG - Starting reading thread...
+2024-10-16 13:50:12,613 - pylabrobot - DEBUG - Received data: bytearray(b'A1PMTRid9er99es"P132 P232 P332 P432 P532 P632 P732 P832"')
+2024-10-16 13:50:12,613 - pylabrobot - INFO - Received response: A1PMTRid9er99es"P132 P232 P332 P432 P532 P632 P732 P832"
+2024-10-16 13:50:12,613 - pylabrobot - DEBUG - Reading thread stopped.
+2024-10-16 13:50:31,299 - pylabrobot - INFO - Sent command: A1PMTRid0010xp6669 6669 6669 6669 6669 6669 6669 6669yp3378 3288 3198 3108 3018 2928 2838 2748tp1414 1414 1414 1414 1414 1414 1414 1414tz1314 1314 1314 1314 1314 1314 1314 1314th2450 2450 2450 2450 2450 2450 2450 2450te2450 2450 2450 2450 2450 2450 2450 2450tm1 1 1 1 1 1 1 1ts0td0 0 0 0 0 0 0 0
+2024-10-16 13:50:31,300 - pylabrobot - DEBUG - Starting reading thread...
+2024-10-16 13:50:34,302 - pylabrobot - DEBUG - Received data: bytearray(b'')
+2024-10-16 13:50:34,303 - pylabrobot - INFO - Received response: 
+2024-10-16 13:50:37,305 - pylabrobot - DEBUG - Received data: bytearray(b'')
+2024-10-16 13:50:37,305 - pylabrobot - INFO - Received response: 
+2024-10-16 13:50:38,466 - pylabrobot - DEBUG - Received data: bytearray(b'A1PMTRid10er0')
+2024-10-16 13:50:38,466 - pylabrobot - INFO - Received response: A1PMTRid10er0
+2024-10-16 13:50:38,466 - pylabrobot - DEBUG - Reading thread stopped.
+2024-10-16 13:50:47,432 - pylabrobot - INFO - Finding USB device...
+2024-10-16 13:50:47,483 - pylabrobot - INFO - Found USB device.
+2024-10-16 13:50:47,485 - pylabrobot - INFO - Found endpoints. 
+Write:
+       ENDPOINT 0x2: Bulk OUT ===============================
+       bLength          :    0x7 (7 bytes)
+       bDescriptorType  :    0x5 Endpoint
+       bEndpointAddress :    0x2 OUT
+       bmAttributes     :    0x2 Bulk
+       wMaxPacketSize   :   0x40 (64 bytes)
+       bInterval        :    0x0 
+Read:
+       ENDPOINT 0x81: Bulk IN ===============================
+       bLength          :    0x7 (7 bytes)
+       bDescriptorType  :    0x5 Endpoint
+       bEndpointAddress :   0x81 IN
+       bmAttributes     :    0x2 Bulk
+       wMaxPacketSize   :   0x40 (64 bytes)
+       bInterval        :    0x0
+2024-10-16 13:50:50,490 - pylabrobot - INFO - Sent command: A1PMQAid0001
+2024-10-16 13:50:50,491 - pylabrobot - DEBUG - Starting reading thread...
+2024-10-16 13:50:50,512 - pylabrobot - DEBUG - Received data: bytearray(b'A1PMQAid1er0rt0 0 0 0 0 0 0 0')
+2024-10-16 13:50:50,512 - pylabrobot - INFO - Received response: A1PMQAid1er0rt0 0 0 0 0 0 0 0
+2024-10-16 13:50:50,512 - pylabrobot - DEBUG - Reading thread stopped.
+2024-10-16 13:50:50,513 - pylabrobot - INFO - Sent command: A1AMQWid0002
+2024-10-16 13:50:50,513 - pylabrobot - DEBUG - Starting reading thread...
+2024-10-16 13:50:50,544 - pylabrobot - DEBUG - Received data: bytearray(b'A1AMQWid2er0qw1')
+2024-10-16 13:50:50,544 - pylabrobot - INFO - Received response: A1AMQWid2er0qw1
+2024-10-16 13:50:50,544 - pylabrobot - DEBUG - Reading thread stopped.
+2024-10-16 13:50:50,545 - pylabrobot - INFO - Sent command: A1PMQWid0003
+2024-10-16 13:50:50,545 - pylabrobot - DEBUG - Starting reading thread...
+2024-10-16 13:50:50,574 - pylabrobot - DEBUG - Received data: bytearray(b'A1PMQWid3er0qw1')
+2024-10-16 13:50:50,574 - pylabrobot - INFO - Received response: A1PMQWid3er0qw1
+2024-10-16 13:50:50,574 - pylabrobot - DEBUG - Reading thread stopped.
+2024-10-16 13:50:50,574 - pylabrobot - INFO - Sent command: I1AMQWid0004
+2024-10-16 13:50:50,575 - pylabrobot - DEBUG - Starting reading thread...
+2024-10-16 13:50:50,590 - pylabrobot - DEBUG - Received data: bytearray(b'I1AMQWid4er0qw1')
+2024-10-16 13:50:50,590 - pylabrobot - INFO - Received response: I1AMQWid4er0qw1
+2024-10-16 13:50:50,590 - pylabrobot - DEBUG - Reading thread stopped.
+2024-10-16 13:50:50,591 - pylabrobot - INFO - Sent command: A1HMQWid0005
+2024-10-16 13:50:50,591 - pylabrobot - DEBUG - Starting reading thread...
+2024-10-16 13:50:50,619 - pylabrobot - DEBUG - Received data: bytearray(b'A1HMQWid5er0qw1')
+2024-10-16 13:50:50,619 - pylabrobot - INFO - Received response: A1HMQWid5er0qw1
+2024-10-16 13:50:50,619 - pylabrobot - DEBUG - Reading thread stopped.
+2024-10-16 13:50:50,619 - pylabrobot - INFO - Sent command: A1RMQWid0006
+2024-10-16 13:50:50,620 - pylabrobot - DEBUG - Starting reading thread...
+2024-10-16 13:50:50,649 - pylabrobot - DEBUG - Received data: bytearray(b'A1RMQWid6er0qw1')
+2024-10-16 13:50:50,649 - pylabrobot - INFO - Received response: A1RMQWid6er0qw1
+2024-10-16 13:50:50,649 - pylabrobot - DEBUG - Reading thread stopped.
+2024-10-16 13:51:00,384 - pylabrobot - INFO - Sent command: A1AMTTid0007ti01tf1tl0871tv10650tg3tu0
+2024-10-16 13:51:00,384 - pylabrobot - DEBUG - Starting reading thread...
+2024-10-16 13:51:00,389 - pylabrobot - DEBUG - Received data: bytearray(b'A1AMTTid7er0')
+2024-10-16 13:51:00,389 - pylabrobot - INFO - Received response: A1AMTTid7er0
+2024-10-16 13:51:00,389 - pylabrobot - DEBUG - Reading thread stopped.
+2024-10-16 13:51:00,390 - pylabrobot - INFO - Sent command: A1PMTPid0008xp6669 6669 6669 6669 6669 6669 6669 6669yp3378 3288 3198 3108 3018 2928 2838 2748tm1 1 1 1 1 1 1 1tt1 1 1 1 1 1 1 1tp2265 2265 2265 2265 2265 2265 2265 2265tz2165 2165 2165 2165 2165 2165 2165 2165th2450 2450 2450 2450 2450 2450 2450 2450te2450 2450 2450 2450 2450 2450 2450 2450ba0 0 0 0 0 0 0 0td1 1 1 1 1 1 1 1
+2024-10-16 13:51:00,390 - pylabrobot - DEBUG - Starting reading thread...
+2024-10-16 13:51:03,393 - pylabrobot - DEBUG - Received data: bytearray(b'')
+2024-10-16 13:51:03,393 - pylabrobot - INFO - Received response: 
+2024-10-16 13:51:06,089 - pylabrobot - DEBUG - Received data: bytearray(b'A1PMTPid8er0')
+2024-10-16 13:51:06,089 - pylabrobot - INFO - Received response: A1PMTPid8er0
+2024-10-16 13:51:06,089 - pylabrobot - DEBUG - Reading thread stopped.
+2024-10-16 13:51:07,222 - pylabrobot - INFO - Sent command: A1PMTRid0009xp7075 7075 7075 7075 7075 7075 7075 7075yp3911 3622 3333 3044 2755 2466 2177 1888tp1100 1100 1100 1100 1100 1100 1100 1100tz1000 1000 1000 1000 1000 1000 1000 1000th2450 2450 2450 2450 2450 2450 2450 2450te2450 2450 2450 2450 2450 2450 2450 2450tm1 1 1 1 1 1 1 1ts0td0 0 0 0 0 0 0 0
+2024-10-16 13:51:07,222 - pylabrobot - DEBUG - Starting reading thread...
+2024-10-16 13:51:10,579 - pylabrobot - DEBUG - Received data: bytearray(b'')
+2024-10-16 13:51:10,580 - pylabrobot - INFO - Received response: 
+2024-10-16 13:51:10,964 - pylabrobot - DEBUG - Received data: bytearray(b'A1PMTRid9er99es"P162 P262 P362 P462 P562 P662 P762 P862"')
+2024-10-16 13:51:10,965 - pylabrobot - INFO - Received response: A1PMTRid9er99es"P162 P262 P362 P462 P562 P662 P762 P862"
+2024-10-16 13:51:10,965 - pylabrobot - DEBUG - Reading thread stopped.
+2024-10-16 13:51:41,252 - pylabrobot - INFO - Finding USB device...
+2024-10-16 13:51:41,290 - pylabrobot - INFO - Found USB device.
+2024-10-16 13:51:41,291 - pylabrobot - INFO - Found endpoints. 
+Write:
+       ENDPOINT 0x2: Bulk OUT ===============================
+       bLength          :    0x7 (7 bytes)
+       bDescriptorType  :    0x5 Endpoint
+       bEndpointAddress :    0x2 OUT
+       bmAttributes     :    0x2 Bulk
+       wMaxPacketSize   :   0x40 (64 bytes)
+       bInterval        :    0x0 
+Read:
+       ENDPOINT 0x81: Bulk IN ===============================
+       bLength          :    0x7 (7 bytes)
+       bDescriptorType  :    0x5 Endpoint
+       bEndpointAddress :   0x81 IN
+       bmAttributes     :    0x2 Bulk
+       wMaxPacketSize   :   0x40 (64 bytes)
+       bInterval        :    0x0
+2024-10-16 13:51:44,543 - pylabrobot - INFO - Sent command: A1PMQAid0001
+2024-10-16 13:51:44,544 - pylabrobot - DEBUG - Starting reading thread...
+2024-10-16 13:51:44,564 - pylabrobot - DEBUG - Received data: bytearray(b'A1PMQAid1er0rt1 1 1 1 1 1 1 1')
+2024-10-16 13:51:44,564 - pylabrobot - INFO - Received response: A1PMQAid1er0rt1 1 1 1 1 1 1 1
+2024-10-16 13:51:44,565 - pylabrobot - DEBUG - Reading thread stopped.
+2024-10-16 13:51:44,565 - pylabrobot - INFO - Sent command: A1AMQWid0002
+2024-10-16 13:51:44,565 - pylabrobot - DEBUG - Starting reading thread...
+2024-10-16 13:51:44,595 - pylabrobot - DEBUG - Received data: bytearray(b'A1AMQWid2er0qw1')
+2024-10-16 13:51:44,595 - pylabrobot - INFO - Received response: A1AMQWid2er0qw1
+2024-10-16 13:51:44,595 - pylabrobot - DEBUG - Reading thread stopped.
+2024-10-16 13:51:44,596 - pylabrobot - INFO - Sent command: A1PMQWid0003
+2024-10-16 13:51:44,596 - pylabrobot - DEBUG - Starting reading thread...
+2024-10-16 13:51:44,625 - pylabrobot - DEBUG - Received data: bytearray(b'A1PMQWid3er0qw1')
+2024-10-16 13:51:44,625 - pylabrobot - INFO - Received response: A1PMQWid3er0qw1
+2024-10-16 13:51:44,626 - pylabrobot - DEBUG - Reading thread stopped.
+2024-10-16 13:51:44,627 - pylabrobot - INFO - Sent command: A1PMDIid0004xp7095 7095 7095 7095 7095 7095 7095 7095yp3891 3623 3355 3087 2819 2551 2283 2016tp2450 2450 2450 2450 2450 2450 2450 2450tz1235 1235 1235 1235 1235 1235 1235 1235te2450 2450 2450 2450 2450 2450 2450 2450tm1 1 1 1 1 1 1 1tt1 1 1 1 1 1 1 1ts70
+2024-10-16 13:51:44,627 - pylabrobot - DEBUG - Starting reading thread...
+2024-10-16 13:51:47,987 - pylabrobot - DEBUG - Received data: bytearray(b'')
+2024-10-16 13:51:47,987 - pylabrobot - INFO - Received response: 
+2024-10-16 13:51:50,990 - pylabrobot - DEBUG - Received data: bytearray(b'')
+2024-10-16 13:51:50,990 - pylabrobot - INFO - Received response: 
+2024-10-16 13:51:54,194 - pylabrobot - DEBUG - Received data: bytearray(b'')
+2024-10-16 13:51:54,195 - pylabrobot - INFO - Received response: 
+2024-10-16 13:51:57,197 - pylabrobot - DEBUG - Received data: bytearray(b'')
+2024-10-16 13:51:57,197 - pylabrobot - INFO - Received response: 
+2024-10-16 13:52:00,508 - pylabrobot - DEBUG - Received data: bytearray(b'')
+2024-10-16 13:52:00,509 - pylabrobot - INFO - Received response: 
+2024-10-16 13:52:02,469 - pylabrobot - DEBUG - Received data: bytearray(b'A1PMDIid4er0')
+2024-10-16 13:52:02,469 - pylabrobot - INFO - Received response: A1PMDIid4er0
+2024-10-16 13:52:02,470 - pylabrobot - DEBUG - Reading thread stopped.
+2024-10-16 13:52:02,470 - pylabrobot - INFO - Sent command: I1AMQWid0005
+2024-10-16 13:52:02,470 - pylabrobot - DEBUG - Starting reading thread...
+2024-10-16 13:52:02,486 - pylabrobot - DEBUG - Received data: bytearray(b'I1AMQWid5er0qw1')
+2024-10-16 13:52:02,486 - pylabrobot - INFO - Received response: I1AMQWid5er0qw1
+2024-10-16 13:52:02,486 - pylabrobot - DEBUG - Reading thread stopped.
+2024-10-16 13:52:02,487 - pylabrobot - INFO - Sent command: A1HMQWid0006
+2024-10-16 13:52:02,487 - pylabrobot - DEBUG - Starting reading thread...
+2024-10-16 13:52:02,515 - pylabrobot - DEBUG - Received data: bytearray(b'A1HMQWid6er0qw1')
+2024-10-16 13:52:02,515 - pylabrobot - INFO - Received response: A1HMQWid6er0qw1
+2024-10-16 13:52:02,515 - pylabrobot - DEBUG - Reading thread stopped.
+2024-10-16 13:52:02,516 - pylabrobot - INFO - Sent command: A1RMQWid0007
+2024-10-16 13:52:02,516 - pylabrobot - DEBUG - Starting reading thread...
+2024-10-16 13:52:02,545 - pylabrobot - DEBUG - Received data: bytearray(b'A1RMQWid7er0qw1')
+2024-10-16 13:52:02,545 - pylabrobot - INFO - Received response: A1RMQWid7er0qw1
+2024-10-16 13:52:02,546 - pylabrobot - DEBUG - Reading thread stopped.
